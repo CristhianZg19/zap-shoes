@@ -1,0 +1,141 @@
+.product-list-card {
+    background-color: #444;
+    /* Color de fondo del card */
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-list-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.product-list-title h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+    color: #fff;
+    /* Color de título en modo oscuro */
+    font-weight: 700;
+}
+
+.product-card {
+    background-color: #121e1e;
+    /* Color de fondo del producto */
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+.product-details .loquiero {
+    background-color: #ffdd57; /* Cambiado a amarillo brillante */
+    color: black;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-details .loquiero:hover {
+    background-color: #ffcc00; /* Amarillo más oscuro al pasar el cursor */
+    color: black;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-details .loquiero:active {
+    background-color: #ffbb00; /* Amarillo más oscuro al hacer clic */
+    color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+
+.product-image {
+    border-bottom: 2px solid #121e1e;
+}
+
+.product-brand {
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9rem;
+    color: #888;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.product-title {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    color: #fff;
+    /* Color de título en modo oscuro */
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.2rem;
+    color: #32cd32; /* Verde brillante */
+
+    /* Color de precio actual */
+    font-weight: 700;
+}
+
+.product-price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #32cd32; /* Verde brillante */
+}
+
+
+.product-previous-price {
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    color: #bbb;
+    text-decoration: line-through;
+    margin-bottom: 10px;
+}
+
+.product-sizes {
+    margin-top: 10px;
+}
+
+.product-sizes-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.product-size {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+
+.product-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product-prices {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.product-previous-price {
+    text-decoration: line-through;
+    color: gray;
+}
+
+
+
+@media (min-width: 1280px) {
+    .v-container {
+        max-width: 100%;
+    }
+}
