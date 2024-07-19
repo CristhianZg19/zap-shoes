@@ -6,7 +6,9 @@
         @click="drawer = true"
         class="d-flex d-sm-none"
       ></v-app-bar-nav-icon>
+      <v-btn text @click="navigateHome">
       <v-toolbar-title>ShoesZap</v-toolbar-title>
+    </v-btn>
       <v-spacer></v-spacer>
 
       <v-btn icon>
@@ -65,6 +67,7 @@ import AppFooter from '~/components/AppFooter.vue'; // Importa el componente aqu
 
 const drawer = ref(false);
 const tab = ref(null);
+const router = useRouter();
 
 const items = [
   { name: 'Inicio', path: '/' },
@@ -76,6 +79,10 @@ const items = [
 
 const navigateTo = (path) => {
   useRouter().push(path);
+};
+
+const navigateHome = () => {
+  router.push('/');
 };
 </script>
 

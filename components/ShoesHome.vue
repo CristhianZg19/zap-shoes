@@ -68,7 +68,17 @@ import { useRouter } from 'vue-router';
 import { useDisplay } from 'vuetify';
 import productosJsonHombre from '@/assets/shoesHombres.json';
 import productosJsonMujer from '@/assets/shoesMujer.json';
+import { useHead } from '@unhead/vue';
 
+// Configura los metadatos de la página
+useHead({
+  title: 'Shoes Inicio',
+  meta: [
+    { name: 'description', content: 'Inicio' },
+    { property: 'og:title', content: 'Shoes Inicio' },
+    { property: 'og:description', content: 'Descripción de la Inicio' }
+  ]
+});
 const router = useRouter();
 const productos = ref([]);
 const display = useDisplay();
@@ -84,7 +94,7 @@ const shuffleArray = (array) => {
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
   const nombreProducto = producto.polycard.metadata.url.split('/').pop();
-  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
+  const url = `https://zapshoes.netlify.app/product/${idImagen}/${nombreProducto}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
   const numeroTelefono = '+51952348779';
@@ -94,11 +104,12 @@ const quieroEsta = (producto) => {
 
 const productoXid = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
-  let title = getName(producto);
+  const title = getName(producto);
   router.push({
-    path: `/product/${idImagen}/${title}`,
+    path: `/product/${idImagen}/${encodeURIComponent(title)}`, // Asegúrate de codificar el título
   });
 };
+
 
 const getName = (producto) => {
   let url = producto.polycard.metadata.url;
