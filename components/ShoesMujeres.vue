@@ -2,7 +2,7 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2 style="color: black;" >Damas x)</h2>
+        <h2 style="color: black;" >Damas <v-icon>mdi-shoe-heel</v-icon> </h2>
       </v-card-title>
       <v-card-text>
         <v-row>
@@ -67,19 +67,14 @@ import { ref, onMounted } from 'vue';
 import { useRouter } from 'vue-router';
 import { useDisplay } from 'vuetify';
 import productosJsonMujer from '@/assets/shoesMujer.json';
-import { useHead } from '@unhead/vue';
 
-// Configura los metadatos de la página
-useHead({
-  title: 'Shoes Inicio',
-  meta: [
-    { name: 'description', content: 'Inicio' },
-    { property: 'og:title', content: 'Shoes Inicio' },
-    { property: 'og:description', content: 'Descripción de la Inicio' }
-  ],
-  link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' } // Ruta correcta al favicon en static
-  ]
+
+useSeoMeta({
+  title: 'ZapShoes',
+  ogTitle: 'ZapShoes',
+  description: 'Tienda de zapatillas.',
+  ogDescription: 'Tienda de zapatillas.',
+  ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png',
 });
 const router = useRouter();
 const productos = ref([]);

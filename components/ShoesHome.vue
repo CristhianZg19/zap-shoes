@@ -2,7 +2,7 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2 style="color: black;" >Bienvenido x)</h2>
+        <h2 style="color: black;" >Bienvenido <v-icon>mdi-human-greeting</v-icon> </h2>
       </v-card-title>
       <v-card-text>
         <v-row>
@@ -68,16 +68,14 @@ import { useRouter } from 'vue-router';
 import { useDisplay } from 'vuetify';
 import productosJsonHombre from '@/assets/shoesHombres.json';
 import productosJsonMujer from '@/assets/shoesMujer.json';
-import { useHead } from '@unhead/vue';
 
 // Configura los metadatos de la página
 useSeoMeta({
-  title: 'My Amazing Site',
-  ogTitle: 'My Amazing Site',
-  description: 'This is my amazing site, let me tell you all about it.',
-  ogDescription: 'This is my amazing site, let me tell you all about it.',
+  title: 'ZapShoes',
+  ogTitle: 'ZapShoes',
+  description: 'Tienda de zapatillas.',
+  ogDescription: 'Tienda de zapatillas.',
   ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png',
-  twitterCard: 'summary_large_image',
 });
 const router = useRouter();
 const productos = ref([]);
