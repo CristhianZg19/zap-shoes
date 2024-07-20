@@ -113,7 +113,7 @@ useHead({
       rel: "icon",
       type: "image/png",
       sizes: "16x16",
-      href: "@/assets/logo_seven.png",
+      href: "./logo_seven.png",
     }
   ],
 });
