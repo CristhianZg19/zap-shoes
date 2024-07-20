@@ -28,11 +28,14 @@ const title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Deco
 
 
 useSeoMeta({
-  title: title,
-  ogTitle: title,
-  description: title,
-  ogDescription: title,
+  title: getTitle(title),
+  ogTitle: getTitle(title),
+  description: getTitle(title),
+  ogDescription: getTitle(title),
   ogImage: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
+  link: [
+    { rel: 'icon', type: 'image/x-icon', href: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png' }
+  ]
 });
 
 // Define getTitle function
