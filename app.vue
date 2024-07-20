@@ -64,7 +64,6 @@
 import { ref } from 'vue';
 import AppFooter from '~/components/AppFooter.vue'; // Importa el componente aquí
 
-
 const drawer = ref(false);
 const tab = ref(null);
 const router = useRouter();

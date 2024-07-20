@@ -1,10 +1,6 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
-  app: {
-    head: {
-      link: [{ rel: 'icon', type: 'image/x-icon', href: "./favicon.ico" }]
-    }
-  },
+ 
   //...
   css: [
     '@/assets/styles/globals.css',

@@ -2,7 +2,9 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2 style="color: black;" >Bienvenido <v-icon>mdi-human-greeting</v-icon> </h2>
+        <h2 style="color: black">
+          Bienvenido <v-icon>mdi-human-greeting</v-icon>
+        </h2>
       </v-card-title>
       <v-card-text>
         <v-row>
@@ -63,19 +65,64 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue';
-import { useRouter } from 'vue-router';
-import { useDisplay } from 'vuetify';
-import productosJsonHombre from '@/assets/shoesHombres.json';
-import productosJsonMujer from '@/assets/shoesMujer.json';
+import { ref, onMounted } from "vue";
+import { useRouter } from "vue-router";
+import { useDisplay } from "vuetify";
+import productosJsonHombre from "@/assets/shoesHombres.json";
+import productosJsonMujer from "@/assets/shoesMujer.json";
+import { useHead } from "@unhead/vue";
 
 // Configura los metadatos de la página
-useSeoMeta({
-  title: 'ZapShoes',
-  ogTitle: 'ZapShoes',
-  description: 'Tienda de zapatillas.',
-  ogDescription: 'Tienda de zapatillas.',
-  ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png',
+
+useHead({
+  title: "ZapShoesxx",
+  meta: [
+    { name: "description", content: "ZapShoe" },
+    { property: "og:title", content: "ZapShoes" },
+    { property: "og:description", content: "ZapShoes" },
+    {
+      property: "og:image",
+      content:
+        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
+    },
+  ],
+  link: [
+  {
+      title: "favicon",
+      rel: "icon",
+      type: "image/x-icon",
+      sizes: "16x16",
+      href: "/favicon16x16.ico",
+    },
+    {
+      title: "favicon",
+      rel: "icon",
+      type: "image/x-icon",
+      sizes: "32x32",
+      href: "/favicon32x32.ico",
+    },
+    {
+      title: "favicon",
+      rel: "icon",
+      type: "image/x-icon",
+      sizes: "48x48",
+      href: "/favicon48x48.ico",
+    },
+    {
+      title: "favicon",
+      rel: "icon",
+      type: "image/x-icon",
+      sizes: "128x128",
+      href: "/favicon128x128.ico",
+    },
+    {
+      title: "favicon",
+      rel: "icon",
+      type: "image/x-icon",
+      sizes: "256x256",
+      href: "/favicon256x256.ico",
+    },
+  ],
 });
 
 const router = useRouter();
@@ -92,13 +139,13 @@ const shuffleArray = (array) => {
 
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
-  const nombreProducto = producto.polycard.metadata.url.split('/').pop();
+  const nombreProducto = producto.polycard.metadata.url.split("/").pop();
   const url = `https://zapshoes.netlify.app/product/${idImagen}/${nombreProducto}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
-  const numeroTelefono = '+51952348779';
+  const numeroTelefono = "+51952348779";
   const enlaceWhatsApp = `https://wa.me/${numeroTelefono}?text=${mensajeCodificado}`;
-  window.open(enlaceWhatsApp, '_blank');
+  window.open(enlaceWhatsApp, "_blank");
 };
 
 const productoXid = (producto) => {
@@ -109,10 +156,9 @@ const productoXid = (producto) => {
   });
 };
 
-
 const getName = (producto) => {
   let url = producto.polycard.metadata.url;
-  let path = url.replace(/^(?:https?:\/\/)?(?:www\.)?[^\/]+\/+/i, '');
+  let path = url.replace(/^(?:https?:\/\/)?(?:www\.)?[^\/]+\/+/i, "");
   return path;
 };
 
@@ -129,20 +175,21 @@ const getSizesBySex = (sex) => {
 };
 
 const getBrand = (producto) => {
-  return producto.polycard.components.find((comp) => comp.type === 'brand')
+  return producto.polycard.components.find((comp) => comp.type === "brand")
     .brand.text;
 };
 
 const getTitle = (producto) => {
-  let title = producto.polycard.components.find((comp) => comp.type === 'title').title.text;
+  let title = producto.polycard.components.find((comp) => comp.type === "title")
+    .title.text;
 
   if (display.mobile === false) {
     if (title.length > 40) {
-      title = title.substring(0, 40) + '...';
+      title = title.substring(0, 40) + "...";
     }
   } else {
     if (title.length > 51) {
-      title = title.substring(0, 50) + '...';
+      title = title.substring(0, 50) + "...";
     }
   }
 
@@ -150,21 +197,30 @@ const getTitle = (producto) => {
 };
 
 const getCurrentPrice = (producto) => {
-  const price = producto.polycard.components.find((comp) => comp.type === 'price').price.current_price.value;
+  const price = producto.polycard.components.find(
+    (comp) => comp.type === "price"
+  ).price.current_price.value;
   const sex = getSex(producto);
-  const additionalPrice = sex === 'varon' ? 21 : 23;
+  const additionalPrice = sex === "varon" ? 21 : 23;
   return (Number(price) + additionalPrice).toFixed(2);
 };
 
 const getPreviousPrice = (producto) => {
-  const priceComponent = producto.polycard.components.find((comp) => comp.type === 'price');
-  if (priceComponent && priceComponent.price && priceComponent.price.previous_price && priceComponent.price.previous_price.value) {
+  const priceComponent = producto.polycard.components.find(
+    (comp) => comp.type === "price"
+  );
+  if (
+    priceComponent &&
+    priceComponent.price &&
+    priceComponent.price.previous_price &&
+    priceComponent.price.previous_price.value
+  ) {
     const previousPrice = priceComponent.price.previous_price.value;
     const sex = getSex(producto);
-    const additionalPrice = sex === 'varon' ? 21 : 23;
+    const additionalPrice = sex === "varon" ? 21 : 23;
     return (parseFloat(previousPrice) + additionalPrice).toFixed(2);
   } else {
-    console.error('Precio anterior no encontrado para el producto');
+    console.error("Precio anterior no encontrado para el producto");
     return null;
   }
 };
