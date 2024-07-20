@@ -71,16 +71,13 @@ import productosJsonMujer from '@/assets/shoesMujer.json';
 import { useHead } from '@unhead/vue';
 
 // Configura los metadatos de la página
-useHead({
-  title: 'Shoes Inicio',
-  meta: [
-    { name: 'description', content: 'Inicio' },
-    { property: 'og:title', content: 'Shoes Inicio' },
-    { property: 'og:description', content: 'Descripción de la Inicio' }
-  ],
-  link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' } // Ruta correcta al favicon en static
-  ]
+useSeoMeta({
+  title: 'My Amazing Site',
+  ogTitle: 'My Amazing Site',
+  description: 'This is my amazing site, let me tell you all about it.',
+  ogDescription: 'This is my amazing site, let me tell you all about it.',
+  ogImage: 'https://http2.mlstatic.com/D_NQ_NP_634223-MPE73198659628_122023-O.webp',
+  twitterCard: 'summary_large_image',
 });
 const router = useRouter();
 const productos = ref([]);

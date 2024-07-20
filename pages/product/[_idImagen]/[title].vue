@@ -43,6 +43,7 @@ onMounted(() => {
 
   useHead({
     title: getTitle(title),
+    
     meta: [
       { name: 'description', content: title }, // Descripción de la página
       { property: 'og:title', content: title }, // Título para la vista previa
@@ -50,6 +51,8 @@ onMounted(() => {
       { property: 'og:image', content: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp` }, // Imagen para la vista previa
       { property: 'og:url', content: fullDomain.value }, // URL de la página
       { property: 'og:type', content: 'website' }, // Tipo de contenido
+
+      
     ],
     link: [
       {
