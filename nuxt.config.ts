@@ -1,7 +1,17 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
+import { useHead } from '@unhead/vue';
+
 export default defineNuxtConfig({
- 
-  //...
+
+  app: {
+    head: {
+      link: [
+        { rel: 'icon', type: 'image/png', href: '/zapshoe.png' },
+        // You can add more link tags here if needed
+      ],
+    },
+  },
+
   css: [
     '@/assets/styles/globals.css',
     // Puedes agregar más archivos CSS aquí
