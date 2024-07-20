@@ -2,7 +2,7 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
   app: {
     head: {
-      link: [{ rel: 'icon', type: 'image/png', href: "https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png" }]
+      link: [{ rel: 'icon', type: 'image/x-icon', href: "./favicon.ico" }]
     }
   },
   //...
