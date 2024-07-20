@@ -1,5 +1,10 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
+  app: {
+    head: {
+      link: [{ rel: 'icon', type: 'image/png', href: "https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png" }]
+    }
+  },
   //...
   css: [
     '@/assets/styles/globals.css',
