@@ -17,17 +17,19 @@
   </v-container>
 </template>
   
-  <script setup>
-import { useRoute } from "vue-router";
-import { useHead } from "@unhead/vue";
+<script setup>
+import { ref, onMounted } from 'vue';
+import { useRoute } from 'vue-router';
+import { useHead } from '@unhead/vue';
 
 // Obtén la ruta actual
 const route = useRoute();
 const idImagen = route.params._idImagen;
 const title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
 
-const fullDomain = window.location.origin;
+const fullDomain = ref('');
 
+// Define getTitle function
 function getTitle(title) {
   // Elimina las dos primeras palabras
   const words = title.split(" ").slice(2).join(" ");
@@ -35,32 +37,32 @@ function getTitle(title) {
   return words.toUpperCase();
 }
 
+// Use onMounted to set fullDomain and call useHead
+onMounted(() => {
+  fullDomain.value = window.location.origin;
 
-
-useHead({
-  title: getTitle(title),
-  meta: [
-    { name: 'description', content: title },  // Descripción de la página
-    { property: 'og:title', content:  title },  // Título para la vista previa
-    { property: 'og:description', content: title },  // Descripción para la vista previa
-    { property: 'og:image', content: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp` },  // Imagen para la vista previa
-    { property: 'og:url', content: fullDomain },  // URL de la página
-    { property: 'og:type', content: 'website' },  // Tipo de contenido
-  ],
-  link: [
-    {
-      rel: 'icon',
-      type: 'image/png',
-      href: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,  // URL externa para el favicon
-    }
-  ]
+  useHead({
+    title: getTitle(title),
+    meta: [
+      { name: 'description', content: title }, // Descripción de la página
+      { property: 'og:title', content: title }, // Título para la vista previa
+      { property: 'og:description', content: title }, // Descripción para la vista previa
+      { property: 'og:image', content: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp` }, // Imagen para la vista previa
+      { property: 'og:url', content: fullDomain.value }, // URL de la página
+      { property: 'og:type', content: 'website' }, // Tipo de contenido
+    ],
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`, // URL externa para el favicon
+      },
+    ],
+  });
 });
-
-
-// Configura los metadatos para la página con el título específico
 </script>
   
-  <style scoped>
+<style scoped>
 /* Estilos específicos para esta página */
 .product-list-title {
   display: flex;
@@ -84,4 +86,3 @@ useHead({
   max-width: 100%; /* Ensure image scales responsively */
 }
 </style>
-  
