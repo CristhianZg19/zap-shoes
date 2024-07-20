@@ -20,14 +20,20 @@
 <script setup>
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
-import { useHead } from "@unhead/vue";
 
 // Obtén la ruta actual
 const route = useRoute();
 const idImagen = route.params._idImagen;
 const title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
 
-const fullDomain = ref("");
+
+useSeoMeta({
+  title: title,
+  ogTitle: title,
+  description: title,
+  ogDescription: title,
+  ogImage: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
+});
 
 // Define getTitle function
 function getTitle(title) {
@@ -38,19 +44,6 @@ function getTitle(title) {
 }
 
 // Use onMounted to set fullDomain and call useHead
-onMounted(() => {
-  fullDomain.value = window.location.origin;
-
-  useSeoMeta({
-    title: title,
-    ogTitle: title,
-    description: title,
-    ogDescription: title,
-    ogImage:
-      `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
-    twitterCard: "summary_large_image",
-  });
-});
 </script>
 <style scoped>
 /* Estilos específicos para esta página */
