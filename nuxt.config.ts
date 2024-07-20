@@ -1,5 +1,4 @@
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
-import { useHead } from '@unhead/vue';
 
 export default defineNuxtConfig({
 
