@@ -76,7 +76,7 @@ useSeoMeta({
   ogTitle: 'My Amazing Site',
   description: 'This is my amazing site, let me tell you all about it.',
   ogDescription: 'This is my amazing site, let me tell you all about it.',
-  ogImage: 'https://http2.mlstatic.com/D_NQ_NP_634223-MPE73198659628_122023-O.webp',
+  ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png',
   twitterCard: 'summary_large_image',
 });
 const router = useRouter();
