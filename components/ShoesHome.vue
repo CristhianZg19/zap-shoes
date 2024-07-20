@@ -76,6 +76,9 @@ useSeoMeta({
   description: 'Tienda de zapatillas.',
   ogDescription: 'Tienda de zapatillas.',
   ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png',
+  link: [
+    { rel: 'icon', type: 'image/png', href: `https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png` }
+  ]
 });
 const router = useRouter();
 const productos = ref([]);
