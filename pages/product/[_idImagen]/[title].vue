@@ -2,7 +2,7 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2 style="color: black">{{ getTitle(title) }}</h2>
+        <h2 class="title-text">{{ getTitle(title) }}</h2>
       </v-card-title>
       <v-card-text>
         <v-img
@@ -10,6 +10,7 @@
           alt="Imagen del producto"
           height="200"
           contain
+          class="product-image"
         ></v-img>
       </v-card-text>
     </v-card>
@@ -52,9 +53,26 @@ useHead({
   
   <style scoped>
 /* Estilos específicos para esta página */
-.product-list-title h2 {
-  font-size: 24px;
-  font-weight: bold;
+.product-list-title {
+  display: flex;
+  justify-content: center;
+}
+
+.title-text {
+  color: black;
+  font-size: 1.5rem; /* Adjust as needed */
+  white-space: normal;
+  overflow-wrap: break-word;
+  text-align: center;
+  margin: 0;
+}
+
+.product-list-container {
+  padding: 0 16px; /* Adjust as needed */
+}
+
+.product-image {
+  max-width: 100%; /* Ensure image scales responsively */
 }
 </style>
   

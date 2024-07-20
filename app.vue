@@ -71,10 +71,8 @@ const router = useRouter();
 
 const items = [
   { name: 'Inicio', path: '/' },
-  { name: 'Hombres', path: '/hombres' },
-  { name: 'Mujeres', path: '/mujeres' },
-  { name: 'Niños', path: '/ninos' },
-  { name: 'Unisex', path: '/unisex' }
+  { name: 'Varones', path: '/hombres' },
+  { name: 'Damas', path: '/mujeres' }
 ];
 
 const navigateTo = (path) => {

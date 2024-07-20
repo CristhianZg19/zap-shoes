@@ -10,10 +10,3 @@ import ShoesHome from "@/components/ShoesHome.vue"; // Importar el componente, s
 
 </script>
   
-  <style scoped>
-/* Estilos específicos para esta página */
-h1 {
-  color: #333;
-}
-</style>
-  

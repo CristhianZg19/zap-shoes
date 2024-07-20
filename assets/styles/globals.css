@@ -1,6 +1,20 @@
+.v-application {
+    display: flex;
+    background: rgb(var(--v-theme-background));
+    color: greenyellow;
+  }
+  
+  .v-application__wrap {
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    max-width: 100%;
+    min-height: 100vh;
+    min-height: 100dvh;
+    position: relative;
+  }
 .product-list-card {
-    background-color: #444;
-    /* Color de fondo del card */
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -13,14 +27,10 @@
 .product-list-title h2 {
     font-family: "Poppins", sans-serif;
     font-size: 2.5rem;
-    color: #fff;
-    /* Color de título en modo oscuro */
     font-weight: 700;
 }
 
 .product-card {
-    background-color: #121e1e;
-    /* Color de fondo del producto */
     border-radius: 12px;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -30,26 +40,25 @@
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
+
 .product-details .loquiero {
-    background-color: #ffdd57; /* Cambiado a amarillo brillante */
-    color: black;
+    background-color: #ffdd57;
     transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
     padding: 10px 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  .product-details .loquiero:hover {
-    background-color: #ffcc00; /* Amarillo más oscuro al pasar el cursor */
+}
+
+.product-details .loquiero:hover {
+    background-color: #ffcc00;
     color: black;
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  .product-details .loquiero:active {
-    background-color: #ffbb00; /* Amarillo más oscuro al hacer clic */
+}
+
+.product-details .loquiero:active {
+    background-color: #ffbb00;
     color: black;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  
+}
 
 .product-image {
     border-bottom: 2px solid #121e1e;
@@ -66,8 +75,6 @@
 .product-title {
     font-family: "Poppins", sans-serif;
     font-size: 1.5rem;
-    color: #fff;
-    /* Color de título en modo oscuro */
     font-weight: 600;
     margin-bottom: 10px;
 }
@@ -75,18 +82,15 @@
 .product-price {
     font-family: "Poppins", sans-serif;
     font-size: 1.2rem;
-    color: #32cd32; /* Verde brillante */
-
-    /* Color de precio actual */
+    color: #32cd32;
     font-weight: 700;
 }
 
 .product-price {
     font-size: 1.2em;
     font-weight: bold;
-    color: #32cd32; /* Verde brillante */
+    color: #32cd32;
 }
-
 
 .product-previous-price {
     font-family: "Poppins", sans-serif;

@@ -9,10 +9,4 @@
   // Aquí puedes definir variables o lógica adicional si es necesario
   </script>
     
-    <style scoped>
-  /* Estilos específicos para esta página */
-  h1 {
-    color: #333;
-  }
-  </style>
-    
+  

@@ -2,7 +2,7 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2>Bienvenido x)</h2>
+        <h2 style="color: black;" >Bienvenido x)</h2>
       </v-card-title>
       <v-card-text>
         <v-row>
