@@ -32,9 +32,14 @@ useSeoMeta({
   ogTitle: getTitle(title),
   description: getTitle(title),
   ogDescription: getTitle(title),
-  ogImage: `https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png`,
+  ogImage: [
+    {
+      url: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
+      type: 'image/webp',
+    },
+  ],
   link: [
-    { rel: 'icon', type: 'image/x-icon', href: 'https://fastmedicaltest.blob.core.windows.net/shoes/logo_empresa.png' }
+    { rel: 'icon', type: 'image/webp', href: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp` }
   ]
 });
 
