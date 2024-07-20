@@ -83,7 +83,7 @@ useHead({
     {
       property: "og:image",
       content:
-        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
+        "https://fastmedicaltest.blob.core.windows.net/shoes/logo_seven.png",
     },
 
     {
@@ -111,38 +111,10 @@ useHead({
     {
       title: "favicon",
       rel: "icon",
-      type: "image/x-icon",
+      type: "image/png",
       sizes: "16x16",
-      href: "/favicon16x16.ico",
-    },
-    {
-      title: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      sizes: "32x32",
-      href: "/favicon32x32.ico",
-    },
-    {
-      title: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      sizes: "48x48",
-      href: "/favicon48x48.ico",
-    },
-    {
-      title: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      sizes: "128x128",
-      href: "/favicon128x128.ico",
-    },
-    {
-      title: "favicon",
-      rel: "icon",
-      type: "image/x-icon",
-      sizes: "256x256",
-      href: "/favicon256x256.ico",
-    },
+      href: "@/assets/logo_seven.png",
+    }
   ],
 });
 
