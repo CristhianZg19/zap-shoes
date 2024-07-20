@@ -84,6 +84,8 @@ const navigateTo = (path) => {
 const navigateHome = () => {
   router.push('/');
 };
+
+
 </script>
 
 <style>

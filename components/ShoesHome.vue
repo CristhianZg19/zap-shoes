@@ -77,6 +77,9 @@ useHead({
     { name: 'description', content: 'Inicio' },
     { property: 'og:title', content: 'Shoes Inicio' },
     { property: 'og:description', content: 'Descripción de la Inicio' }
+  ],
+  link: [
+    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' } // Ruta correcta al favicon en static
   ]
 });
 const router = useRouter();
