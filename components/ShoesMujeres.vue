@@ -74,7 +74,7 @@ useSeoMeta({
   ogTitle: 'ZapShoes',
   description: 'Tienda de zapatillas.',
   ogDescription: 'Tienda de zapatillas.',
-  ogImage: './zap_shoe.png',
+  ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png',
 });
 const router = useRouter();
 const productos = ref([]);

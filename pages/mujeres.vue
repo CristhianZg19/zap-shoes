@@ -15,7 +15,8 @@ useHead({
   meta: [
     { name: 'description', content: 'ZapShoes' },
     { property: 'og:title', content: 'ZapShoes' },
-    { property: 'og:description', content: 'ZapShoes' }
+    { property: 'og:description', content: 'ZapShoes' },
+    { property: 'og:image', content: 'https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png'}
   ],
   link: [
     { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' } // Ruta correcta al favicon en static
