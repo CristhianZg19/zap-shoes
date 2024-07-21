@@ -77,54 +77,16 @@ import productosJsonHombrePuma from "@/assets/shoesHombrePuma.json";
 import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
 
 
-import { useHead } from "@unhead/vue";
 
 // Configura los metadatos de la página
-
-useHead({
-  title: "ZapShoes",
-  meta: [
-    { name: "description", content: "ZapShoe" },
-    { property: "og:title", content: "ZapShoes" },
-    { property: "og:description", content: "ZapShoes" },
-    {
-      property: "og:image",
-      content:
-        "https://i.ibb.co/xmJWz03/zap-shoe-logo-min.png",
-    },
-
-    {
-      property: "og:image:secure_url",
-      content:
-        "https://i.ibb.co/xmJWz03/zap-shoe-logo-min.png",
-    },
-    {
-      property: "og:image:type",
-      content: "image/png",
-    },
-    {
-      property: "og:image:width",
-      content: "400",
-    },
-    {
-      property: "og:image:height",
-      content: "300",
-    },
-    {
-      property: "og:image:alt",
-      content: "A shiny red apple with a bite taken out",
-    },
-  ],
-  link: [
-    {
-      title: "favicon",
-      rel: "icon",
-      type: "image/png",
-      sizes: "16x16",
-      href: "./zapshoe.png",
-    },
-  ],
+useSeoMeta({
+  title: 'ZapShoes',
+  ogTitle: 'ZapShoes',
+  description: 'Tienda de zapatillas.',
+  ogDescription: 'Tienda de zapatillas.',
+  ogImage: 'https://i.ibb.co/xmJWz03/zap-shoe-logo-min.png',
 });
+
 
 const router = useRouter();
 const productos = ref([]);
