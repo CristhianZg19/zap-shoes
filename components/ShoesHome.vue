@@ -90,13 +90,13 @@ useHead({
     {
       property: "og:image",
       content:
-        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
+        "https://i.ibb.co/xmJWz03/zap-shoe-logo-min.png",
     },
 
     {
       property: "og:image:secure_url",
       content:
-        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
+        "https://i.ibb.co/xmJWz03/zap-shoe-logo-min.png",
     },
     {
       property: "og:image:type",
