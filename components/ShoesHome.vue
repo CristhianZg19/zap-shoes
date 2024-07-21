@@ -83,7 +83,7 @@ useHead({
     {
       property: "og:image",
       content:
-        "https://fastmedicaltest.blob.core.windows.net/shoes/logo_seven.png",
+        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
     },
 
     {
