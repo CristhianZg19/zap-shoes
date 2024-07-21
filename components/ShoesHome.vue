@@ -37,13 +37,15 @@
                     </p>
                   </div>
                   <v-btn
+                    @mouseover="producto.hover = true"
+                    @mouseleave="producto.hover = false"
                     @click="quieroEsta(producto)"
                     class="mt-3 loquiero"
                     elevation="2"
-                    style="border-radius: 20px; font-weight: bold"
                   >
-                    Lo quiero
+                    {{ producto.hover ? "lo quiero y lo tengo" : "Lo veo y lo quiero" }}
                   </v-btn>
+
                 </div>
                 <div class="product-sizes">
                   <p class="product-sizes-title">Tallas disponibles:</p>
@@ -70,6 +72,11 @@ import { useRouter } from "vue-router";
 import { useDisplay } from "vuetify";
 import productosJsonHombre from "@/assets/shoesHombres.json";
 import productosJsonMujer from "@/assets/shoesMujer.json";
+
+import productosJsonHombrePuma from "@/assets/shoesHombrePuma.json";
+import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
+
+
 import { useHead } from "@unhead/vue";
 
 // Configura los metadatos de la página
@@ -88,7 +95,8 @@ useHead({
 
     {
       property: "og:image:secure_url",
-      content: "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
+      content:
+        "https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png",
     },
     {
       property: "og:image:type",
@@ -114,13 +122,14 @@ useHead({
       type: "image/png",
       sizes: "16x16",
       href: "./zapshoe.png",
-    }
+    },
   ],
 });
 
 const router = useRouter();
 const productos = ref([]);
 const display = useDisplay();
+const hover = ref(null); // Variable para rastrear el botón sobre el que está el cursor
 
 const shuffleArray = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -194,7 +203,7 @@ const getCurrentPrice = (producto) => {
     (comp) => comp.type === "price"
   ).price.current_price.value;
   const sex = getSex(producto);
-  const additionalPrice = sex === "varon" ? 21 : 23;
+  const additionalPrice = sex === "varon" ? 19 : 21;
   return (Number(price) + additionalPrice).toFixed(2);
 };
 
@@ -210,7 +219,7 @@ const getPreviousPrice = (producto) => {
   ) {
     const previousPrice = priceComponent.price.previous_price.value;
     const sex = getSex(producto);
-    const additionalPrice = sex === "varon" ? 21 : 23;
+    const additionalPrice = sex === "varon" ? 19 : 21;
     return (parseFloat(previousPrice) + additionalPrice).toFixed(2);
   } else {
     console.error("Precio anterior no encontrado para el producto");
@@ -223,10 +232,17 @@ const getImageUrl = (producto) => {
   return `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`;
 };
 
+
+
 onMounted(() => {
-  productos.value = [...productosJsonHombre, ...productosJsonMujer];
+  productos.value = [...productosJsonHombre, ...productosJsonMujer, ...productosJsonHombrePuma, ...productosJsonMujerPuma];
+  productos.value = productos.value.map(producto => ({
+    ...producto,
+    hover: false // Añadir la propiedad hover a cada producto
+  }));
   productos.value = shuffleArray(productos.value);
 });
+
 </script>
 
 <style>

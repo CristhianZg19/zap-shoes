@@ -46,6 +46,7 @@
     transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
     padding: 10px 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 12px;
 }
 
 .product-details .loquiero:hover {
@@ -141,5 +142,14 @@
 @media (min-width: 1280px) {
     .v-container {
         max-width: 100%;
+    }
+    
+}
+
+@media only screen and (max-width: 600px) {
+
+    .product-details .loquiero {
+        font-size: 8px;
+        color: black;
     }
 }

@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670703540",
+        "url": "articulo.mercadolibre.com.pe/MPE-670703540-zapatillas-puma-hombre-electron-e-380435-27-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182475602323&position=1&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "826239-MPE75635756104_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Electron E 380435 27 ",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.6,
+            "total": 15,
+            "alt_text": "Calificación 4.6 de 5 (15 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 18.32,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670729778",
+        "url": "articulo.mercadolibre.com.pe/MPE-670729778-zapatillas-puma-hombre-electron-e-380435-04-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182475883917&position=2&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "761378-MPE75636157470_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Electron E 380435 04",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 229.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670716604",
+        "url": "articulo.mercadolibre.com.pe/MPE-670716604-zapatillas-puma-hombre-rickie-387607-03-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180307186788&position=3&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "668462-MPE75799124569_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Rickie 387607 03",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.7,
+            "total": 3,
+            "alt_text": "Calificación 4.7 de 5 (3 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 16.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE646520088",
+        "url": "articulo.mercadolibre.com.pe/MPE-646520088-zapatillas-puma-hombre-electron-20-385669-17-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178103033234&position=4&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "761525-MPE70241887873_062023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Electron 2.0 385669 17 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 142,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 249.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 43
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 11.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE612920974",
+        "url": "articulo.mercadolibre.com.pe/MPE-612920974-zapatillas-puma-hombre-electron-e-380435-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=174590340620&position=5&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "812559-MPE50158781048_062022"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Electron E 380435 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 167,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 24
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 13.92,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE616047195",
+        "url": "articulo.mercadolibre.com.pe/MPE-616047195-zapatillas-puma-hombre-anzarun-lite-371128-02-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=174963704294&position=6&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "713467-MPE51015141125_082022"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Anzarun Lite 371128 02 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 125.93,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 33
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 10.49,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE651218464",
+        "url": "articulo.mercadolibre.com.pe/MPE-651218464-zapatillas-puma-hombre-vitoria-tt-107484-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178540514520&position=7&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "905540-MPE71257692657_082023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Vitoria Tt 107484 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.6,
+            "total": 7,
+            "alt_text": "Calificación 4.6 de 5 (7 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 111.93,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 169.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 34
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 9.33,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE656427586",
+        "url": "articulo.mercadolibre.com.pe/MPE-656427586-zapatillas-puma-hombre-smash-30-390984-10-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180219917373&position=8&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "724436-MPE72205370179_102023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Smash 3.0 390984 10 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 167,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 24
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 13.92,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE646379456",
+        "url": "articulo.mercadolibre.com.pe/MPE-646379456-zapatillas-puma-hombre-anzarun-lite-371128-50-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178848505663&position=9&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "835284-MPE70219806362_062023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Anzarun Lite 371128 50 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.8,
+            "total": 4,
+            "alt_text": "Calificación 4.8 de 5 (4 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 137,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 27
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 11.42,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679518490",
+        "url": "articulo.mercadolibre.com.pe/MPE-679518490-zapatillas-puma-hombre-all-day-active-386269-22-gris-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181034356710&position=10&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "815866-MPE77630331497_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre All-day Active 386269 22 Gris",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 113,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 43
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 9.42,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE609683690",
+        "url": "articulo.mercadolibre.com.pe/MPE-609683690-zapatillas-puma-hombre-r78-373117-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179190081111&position=11&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "653315-MPE54583399411_032023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre R78 373117 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.2,
+            "total": 6,
+            "alt_text": "Calificación 4.2 de 5 (6 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 178,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 249.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE633909542",
+        "url": "articulo.mercadolibre.com.pe/MPE-633909542-zapatillas-puma-hombre-ca-pro-classic-380190-07-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=177441370506&position=12&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "898609-MPE54945704680_042023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Ca Pro Classic 380190 07 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 279.92,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 399.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 30
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 23.33,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679409108",
+        "url": "articulo.mercadolibre.com.pe/MPE-679409108-zapatillas-puma-hombre-180-389267-10-marron-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018177704&position=13&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "603020-MPE77384562688_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre -180 389267 10 Marron",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 304,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 399.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 23
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 25.33,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679608808",
+        "url": "articulo.mercadolibre.com.pe/MPE-679608808-zapatillas-puma-hombre-anzarun-lite-slipon-387599-12-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183622383541&position=14&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "822712-MPE77414039438_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "highlight",
+          "id": "highlight",
+          "highlight": {
+            "text": "OFERTA DEL DÍA",
+            "styles": {
+              "color_hex": "#FFFFFF",
+              "background_color_hex": "#3483FA"
+            }
+          }
+        },
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Anzarun Lite Slipon 387599 12 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 104,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 47
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 8.67,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513116",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513116-zapatillas-puma-hombre-skyrocket-lite-379437-18-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018279914&position=15&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "844724-MPE77600816989_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Skyrocket Lite 379437 18 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 114,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 42
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 9.5,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE633792672",
+        "url": "articulo.mercadolibre.com.pe/MPE-633792672-zapatillas-puma-hombre-infusion-377893-03-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=177441355482&position=16&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "856624-MPE54940646923_042023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Infusion 377893 03 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 5,
+            "total": 1,
+            "alt_text": "Calificación 5 de 5 (1 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 199,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 33
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 16.58,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE646493784",
+        "url": "articulo.mercadolibre.com.pe/MPE-646493784-zapatillas-puma-hombre-r22-383462-28-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178103008634&position=17&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "783116-MPE70241888127_062023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre R22 383462 28 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 269.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 33
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.92,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679565118",
+        "url": "articulo.mercadolibre.com.pe/MPE-679565118-zapatillas-puma-hombre-x-ray-2-square-373108-82-multicolor-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018003968&position=18&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "773335-MPE77600826071_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "highlight",
+          "id": "highlight",
+          "highlight": {
+            "text": "OFERTA DEL DÍA",
+            "styles": {
+              "color_hex": "#FFFFFF",
+              "background_color_hex": "#3483FA"
+            }
+          }
+        },
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre X-ray 2 Square 373108 82 Multicolor",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 235,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 329.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19.58,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526230",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526230-zapatillas-puma-sin-genero-rebound-v6-lo-jr-393833-05-verde-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018869848&position=19&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "848048-MPE77386064294_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Rebound V6 Lo Jr 393833 05 Verde",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 16.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513128",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513128-zapatillas-puma-hombre-obstruct-profoam-377876-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018280010&position=20&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "929834-MPE77384562950_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Obstruct Profoam 377876 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 149.95,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 50
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 12.5,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679422102",
+        "url": "articulo.mercadolibre.com.pe/MPE-679422102-zapatillas-puma-hombre-x-ray-2-square-373108-88-multicolor-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018152128&position=21&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "837277-MPE77384554670_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre X-ray 2 Square 373108 88 Multicolor",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 235,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 329.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19.58,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487460",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487460-zapatillas-puma-sin-genero-suede-trolls-ps-396529-01-celeste-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181022510848&position=22&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "891379-MPE77607769473_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Suede Trolls Ps 396529 01 Celeste",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 143.94,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 239.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 40
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 11.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679422090",
+        "url": "articulo.mercadolibre.com.pe/MPE-679422090-zapatillas-puma-hombre-graviton-pro-380736-33-multicolor-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018152000&position=23&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "642913-MPE77384561612_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Graviton Pro 380736 33 Multicolor",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 214,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 17.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526126",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526126-zapatillas-puma-hombre-vis2k-sport-395812-05-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018164744&position=24&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "765569-MPE77548115380_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Vis2k Sport 395812 05 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 174.95,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 349.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 50
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.58,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513226",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513226-zapatillas-puma-sin-genero-future-7-match-njr-fgag-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019073112&position=25&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "623244-MPE77602274507_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Future 7 Match Njr Fg/ag",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 214,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 17.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513088",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513088-zapatillas-puma-hombre-future-7-match-tt-107720-03-rosado-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183598740661&position=26&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "898317-MPE77384561936_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre Future 7 Match Tt 107720 03 Rosado",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 349.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 29.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "varon",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE612852930",
+        "url": "articulo.mercadolibre.com.pe/MPE-612852930-zapatillas-puma-hombre-st-runner-v3-nl-384857-02-azul-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=174590252180&position=27&search_layout=grid&type=item&tracking_id=3618c7f5-2dd6-4831-b83f-a473f98a39a4",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "757533-MPE50158777758_062022"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Hombre St Runner V3 Nl 384857 02 Azul",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.8,
+            "total": 6,
+            "alt_text": "Calificación 4.8 de 5 (6 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 160,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 279.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 42
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 13.33,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  }
+]

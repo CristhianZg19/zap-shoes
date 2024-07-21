@@ -67,6 +67,7 @@ import { ref, onMounted } from 'vue';
 import { useRouter } from 'vue-router';
 import { useDisplay } from 'vuetify';
 import productosHombres from '@/assets/shoesHombres.json';
+import productosHombresPuma from '@/assets/shoesHombrePuma.json';
 
 useSeoMeta({
   title: 'ZapShoes',
@@ -80,6 +81,7 @@ useSeoMeta({
 const router = useRouter();
 const productos = ref([]);
 const display = useDisplay();
+const hover = ref(null); // Variable para rastrear el botón sobre el que está el cursor
 
 const shuffleArray = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -151,7 +153,7 @@ const getTitle = (producto) => {
 const getCurrentPrice = (producto) => {
   const price = producto.polycard.components.find((comp) => comp.type === 'price').price.current_price.value;
   const sex = getSex(producto);
-  const additionalPrice = sex === 'varon' ? 21 : 23;
+  const additionalPrice = sex === 'varon' ? 19 : 21;
   return (Number(price) + additionalPrice).toFixed(2);
 };
 
@@ -160,7 +162,7 @@ const getPreviousPrice = (producto) => {
   if (priceComponent && priceComponent.price && priceComponent.price.previous_price && priceComponent.price.previous_price.value) {
     const previousPrice = priceComponent.price.previous_price.value;
     const sex = getSex(producto);
-    const additionalPrice = sex === 'varon' ? 21 : 23;
+    const additionalPrice = sex === 'varon' ? 19 : 21;
     return (parseFloat(previousPrice) + additionalPrice).toFixed(2);
   } else {
     console.error('Precio anterior no encontrado para el producto');
@@ -173,8 +175,13 @@ const getImageUrl = (producto) => {
   return `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`;
 };
 
+
 onMounted(() => {
-  productos.value = productosHombres;
+  productos.value = [...productosHombres, ...productosHombresPuma];
+  productos.value = productos.value.map(producto => ({
+    ...producto,
+    hover: false // Añadir la propiedad hover a cada producto
+  }));
   productos.value = shuffleArray(productos.value);
 });
 </script>

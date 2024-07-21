@@ -1,0 +1,2413 @@
+[
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE666983808",
+        "url": "articulo.mercadolibre.com.pe/MPE-666983808-zapatillas-puma-mujer-taper-373018-09-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181815399627&position=1&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "708753-MPE74682003311_022024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer  Taper 373018 09 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 129.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 35
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 10.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE656427582",
+        "url": "articulo.mercadolibre.com.pe/MPE-656427582-zapatillas-puma-mujer-r78-373117-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180219917329&position=2&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "791863-MPE72144373666_102023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer R78 373117 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 249.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 20.82,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE662145764",
+        "url": "articulo.mercadolibre.com.pe/MPE-662145764-zapatillas-puma-mujer-anzarun-lite-371128-03-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180966461043&position=3&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "671637-MPE73198651524_122023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Anzarun Lite 371128 03 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 123.43,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 35
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 10.29,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE651192778",
+        "url": "articulo.mercadolibre.com.pe/MPE-651192778-zapatillas-puma-mujer-st-runner-v3-nl-384857-20-rosado-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179542850735&position=4&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "760071-MPE71257693225_082023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer St Runner V3 Nl 384857 20 Rosado",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.8,
+            "total": 6,
+            "alt_text": "Calificación 4.8 de 5 (6 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 148,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 239.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 38
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 12.33,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE625319161",
+        "url": "articulo.mercadolibre.com.pe/MPE-625319161-zapatillas-puma-mujer-carina-20-385849-02-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=176411607931&position=5&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "633919-MPE74605605329_022024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Carina 2.0 385849-02 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.8,
+            "total": 4,
+            "alt_text": "Calificación 4.8 de 5 (4 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 160.93,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 229.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 30
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 13.41,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE646444506",
+        "url": "articulo.mercadolibre.com.pe/MPE-646444506-zapatillas-puma-mujer-karmen-rebelle-387212-01-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178102995812&position=6&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "929505-MPE70219806070_062023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Karmen Rebelle 387212 01 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 24.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE667283306",
+        "url": "articulo.mercadolibre.com.pe/MPE-667283306-zapatillas-puma-mujer-suede-xl-lth-397255-11-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179912539858&position=7&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "985748-MPE76491797671_052024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Suede Xl Lth 397255 11 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 399.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 33.32,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE617140175",
+        "url": "articulo.mercadolibre.com.pe/MPE-617140175-zapatillas-puma-mujer-incite-193841-04-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179190055323&position=8&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "927813-MPE51399798464_092022"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Incite 193841 04 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 153,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 229.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 33
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 12.75,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE617166169",
+        "url": "articulo.mercadolibre.com.pe/MPE-617166169-zapatillas-puma-mujer-karmen-rebelle-387212-02-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=175168482709&position=9&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "900255-MPE74510357462_022024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Karmen Rebelle 387212 02 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 228,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 23
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670781800",
+        "url": "articulo.mercadolibre.com.pe/MPE-670781800-zapatilla-puma-mujer-st-runner-v3-nl-384857-27-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182476383735&position=10&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "628199-MPE75800861577_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatilla Puma Mujer St Runner V3 Nl 384857 27",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 239.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670690782",
+        "url": "articulo.mercadolibre.com.pe/MPE-670690782-zapatilla-puma-mujer-karmen-i-am-the-drama-396146-01-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182476009153&position=11&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "881821-MPE75636074142_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatilla Puma Mujer Karmen I Am The Drama 396146 01",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 24.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670730204",
+        "url": "articulo.mercadolibre.com.pe/MPE-670730204-zapatilla-puma-mujer-cassia-via-389223-13-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180307849764&position=12&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "825995-MPE75803910591_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatilla Puma Mujer Cassia Via 389223 13",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 289.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 24.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE662064640",
+        "url": "articulo.mercadolibre.com.pe/MPE-662064640-zapatillas-puma-mujer-nrgy-comet-190556-70-azul-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180966599575&position=13&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "644418-MPE73198659820_122023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Nrgy Comet 190556 70 Azul",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 126,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 33
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 10.5,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE661934974",
+        "url": "articulo.mercadolibre.com.pe/MPE-661934974-zapatillas-puma-mujer-karmen-rebelle-387212-17-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180966814815&position=14&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "880479-MPE73198659592_122023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Karmen Rebelle 387212 17 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 228,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 23
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 19,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE645889352",
+        "url": "articulo.mercadolibre.com.pe/MPE-645889352-zapatillas-puma-mujer-cassia-via-389223-02-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178802330937&position=15&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "617848-MPE70158685220_062023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Cassia Via 389223-02 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 207,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 30
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 17.25,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670664672",
+        "url": "articulo.mercadolibre.com.pe/MPE-670664672-zapatillas-puma-mujer-cassia-via-389223-14-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182475914359&position=16&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "825562-MPE75636179492_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Cassia Via 389223 14",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 289.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 24.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679461486",
+        "url": "articulo.mercadolibre.com.pe/MPE-679461486-zapatillas-puma-mujer-electron-e-381847-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181022498272&position=17&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "750745-MPE77607769397_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Electron E 381847 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 125,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 43
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 10.42,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526230",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526230-zapatillas-puma-sin-genero-rebound-v6-lo-jr-393833-05-verde-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018869848&position=18&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "848048-MPE77386064294_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Rebound V6 Lo Jr 393833 05 Verde",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 16.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526520",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526520-zapatillas-puma-mujer-electron-e-381847-20-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181022437972&position=19&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "643158-MPE77607769967_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Electron E 381847 20 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 153.93,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 30
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 12.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487460",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487460-zapatillas-puma-sin-genero-suede-trolls-ps-396529-01-celeste-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181022510848&position=20&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "891379-MPE77607769473_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Suede Trolls Ps 396529 01 Celeste",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 143.94,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 239.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 40
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 11.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679422094",
+        "url": "articulo.mercadolibre.com.pe/MPE-679422094-zapatillas-puma-mujer-mayze-lth-381983-43-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018152034&position=21&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "627257-MPE77384561912_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Mayze Lth 381983 43 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 285,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 399.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 23.75,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679565106",
+        "url": "articulo.mercadolibre.com.pe/MPE-679565106-zapatillas-puma-mujer-leadcat-20-elevate-385693-01-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018003874&position=22&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "940066-MPE77384562770_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Leadcat 2.0 Elevate 385693 01 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 77.94,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 129.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 40
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 6.5,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679435130",
+        "url": "articulo.mercadolibre.com.pe/MPE-679435130-zapatillas-puma-mujer-mayze-lth-381983-41-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018191182&position=23&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "771229-MPE77600817465_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "highlight",
+          "id": "highlight",
+          "highlight": {
+            "text": "OFERTA DEL DÍA",
+            "styles": {
+              "color_hex": "#FFFFFF",
+              "background_color_hex": "#3483FA"
+            }
+          }
+        },
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Mayze Lth 381983 41 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 285,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 399.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 23.75,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513226",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513226-zapatillas-puma-sin-genero-future-7-match-njr-fgag-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019073112&position=24&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "623244-MPE77602274507_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Sin Genero Future 7 Match Njr Fg/ag",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 214,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 28
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 17.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE650975794",
+        "url": "articulo.mercadolibre.com.pe/MPE-650975794-zapatillas-puma-mujer-future-rider-play-on-371149-94-gris-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178540574930&position=25&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "864008-MPE71216973982_082023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Future Rider Play On 371149 94 Gris",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 379.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 31.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679422098",
+        "url": "articulo.mercadolibre.com.pe/MPE-679422098-zapatillas-puma-mujer-morphic-metallic-397298-01-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018152070&position=26&search_layout=grid&type=item&tracking_id=6b3f8ec7-cef8-4465-b2b8-e97237b4218c",
+        "url_params": "?searchVariation=variationID",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "899653-MPE77384561882_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "PUMA"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas Puma Mujer Morphic Metallic 397298 01 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 299.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 24.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  }
+]
