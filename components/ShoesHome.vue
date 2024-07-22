@@ -81,6 +81,9 @@ import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
 // Configura los metadatos de la página
 useSeoMeta({
   title: 'ZapShoes',
+  description: 'Tienda de zapatillas zap shoes',
+  ogDescription: 'Tienda de zapatillas zap shoes',
+  ogImage: 'https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png',
   meta: [
     { property: 'og:site_name', content: 'ZapShoes' },
     { property: 'og:title', content: 'ZapShoes' },
