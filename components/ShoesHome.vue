@@ -81,37 +81,34 @@ import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
 
 // Configura los metadatos de la página
 useSeoMeta({
-  title: "ZapShoes",
-  description: "Tienda de zapatillas zap shoes",
-  ogDescription: "Tienda de zapatillas zap shoes",
-  ogImage:
-    "https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png",
+  title: "ZapShoes - Tu Tienda de Zapatillas Online",
+  description: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogDescription: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogImage: "https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
     {
       hid: "description",
       name: "description",
-      content:
-        "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
     },
     {
       name: "keywords",
-      content: "zapatillas, tienda de zapatillas, zap shoes, calzado, moda",
+      content: "zapatillas, tienda de zapatillas, zap shoes, calzado, moda, compra zapatillas, estilos de zapatillas",
     },
 
     // Open Graph Meta Tags
-    { property: "og:title", content: "ZapShoes - Tienda de Zapatillas" },
+    { property: "og:title", content: "ZapShoes - Tienda de Zapatillas Online" },
     {
       property: "og:description",
-      content:
-        "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
     },
     { property: "og:url", content: "https://zap-shoes.vercel.app/" },
     { property: "og:type", content: "website" },
     {
       property: "og:image",
-      content: "https://zap-shoes.vercel.app/preview.jpg",
+      content: "https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png",
     },
     { property: "og:image:width", content: "800" },
     { property: "og:image:height", content: "418" },
@@ -120,9 +117,10 @@ useSeoMeta({
 
     // Robots Meta Tag
     { name: "robots", content: "index, follow" },
-    { property: "og:type", content: "website" },
+    { name: "author", content: "Cristhian Zapata Galdos" }
   ],
 });
+
 
 const router = useRouter();
 const productos = ref([]);
