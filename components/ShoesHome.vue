@@ -2,9 +2,9 @@
   <v-container class="product-list-container" style="margin-top: 100px">
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
-        <h2 style="color: black">
-          Bienvenido <v-icon>mdi-human-greeting</v-icon>
-        </h2>
+        <h1 style="color: black">
+          Bienvenido a ZapShoes <v-icon>mdi-human-greeting</v-icon>
+        </h1>
       </v-card-title>
       <v-card-text>
         <v-row>
