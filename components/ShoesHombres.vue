@@ -71,11 +71,15 @@ import productosHombresPuma from '@/assets/shoesHombrePuma.json';
 
 useSeoMeta({
   title: 'ZapShoes',
-  ogTitle: 'ZapShoes',
-  description: 'Tienda de zapatillas.',
-  ogDescription: 'Tienda de zapatillas.',
-  ogImage: 'https://fastmedicaltest.blob.core.windows.net/shoes/zap_shoe.png',
-});
+  meta: [
+    { property: 'og:site_name', content: 'ZapShoes' },
+    { property: 'og:title', content: 'ZapShoes' },
+    { property: 'og:description', content: 'Tienda de zapatillas - hombres' },
+    { property: 'og:image', content: 'https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png' },
+    { property: 'og:type', content: 'website' },
+    { property: 'og:updated_time', content: '1440432930' }
+  ]
+})
 
 
 const router = useRouter();

@@ -80,12 +80,12 @@ import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
 
 // Configura los metadatos de la página
 useSeoMeta({
-  title: 'San Roque 2014 Pollos',
+  title: 'ZapShoes',
   meta: [
-    { property: 'og:site_name', content: 'San Roque 2014 Pollos' },
-    { property: 'og:title', content: 'San Roque 2014 Pollos' },
-    { property: 'og:description', content: 'Programa de fiestas' },
-    { property: 'og:image', content: 'https://zapshoes.netlify.app/pikachu.png' },
+    { property: 'og:site_name', content: 'ZapShoes' },
+    { property: 'og:title', content: 'ZapShoes' },
+    { property: 'og:description', content: 'Tienda de zapatillas' },
+    { property: 'og:image', content: 'https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png' },
     { property: 'og:type', content: 'website' },
     { property: 'og:updated_time', content: '1440432930' }
   ]
