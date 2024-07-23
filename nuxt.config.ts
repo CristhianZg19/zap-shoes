@@ -2,15 +2,6 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 
 export default defineNuxtConfig({
 
-  app: {
-    head: {
-      link: [
-        { rel: 'icon', type: 'image/webp', href: 'https://zapshoes.netlify.app/logoweb.webp' },
-        // You can add more link tags here if needed
-      ],
-    },
-  },
-
   css: [
     '@/assets/styles/globals.css',
     // Puedes agregar más archivos CSS aquí

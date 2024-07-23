@@ -73,15 +73,44 @@ import productosJsonMujerPuma from '@/assets/shoesMujerPuma.json';
 
 useSeoMeta({
   title: "ZapShoes - Tu Tienda de Zapatillas Online",
+  description: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogDescription: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogImage: "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
   meta: [
-    { property: 'og:site_name', content: 'ZapShoes' },
-    { property: 'og:title', content: 'ZapShoes' },
-    { property: 'og:description', content: 'Tienda de zapatillas - mujeres' },
-    { property: 'og:image', content: 'https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png' },
-    { property: 'og:type', content: 'website' },
-    { property: 'og:updated_time', content: '1440432930' }
-  ]
-})
+    { charset: "utf-8" },
+    { name: "viewport", content: "width=device-width, initial-scale=1" },
+    {
+      hid: "description",
+      name: "description",
+      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+    },
+    {
+      name: "keywords",
+      content: "zapatillas, tienda de zapatillas, zap shoes, calzado, moda, compra zapatillas, estilos de zapatillas",
+    },
+
+    // Open Graph Meta Tags
+    { property: "og:title", content: "ZapShoes - Tienda de Zapatillas Online" },
+    {
+      property: "og:description",
+      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+    },
+    { property: "og:url", content: "https://zapshoes.netlify.app" },
+    { property: "og:type", content: "website" },
+    {
+      property: "og:image",
+      content: "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
+    },
+    { property: "og:site_name", content: "ZapShoes" },
+    { property: "og:locale", content: "es_ES" },
+
+    // Robots Meta Tag
+    { name: "robots", content: "index, follow" },
+    { name: "author", content: "Cristhian Zapata Galdos" }
+  ],
+});
+
+
 
 
 const router = useRouter();
