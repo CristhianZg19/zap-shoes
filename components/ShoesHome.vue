@@ -84,8 +84,7 @@ useSeoMeta({
   title: "ZapShoes - Tu Tienda de Zapatillas Online",
   description: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
   ogDescription: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
-  ogImage: "https://zapshoes.netlify.app/preview.png",
-  useLink:" ",
+  ogImage: "https://zapshoes.netlify.app/logoweb.webp",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -127,6 +126,7 @@ const router = useRouter();
 const productos = ref([]);
 const display = useDisplay();
 const hover = ref(null); // Variable para rastrear el botón sobre el que está el cursor
+
 
 const shuffleArray = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
