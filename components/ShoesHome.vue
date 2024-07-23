@@ -104,14 +104,12 @@ useSeoMeta({
       property: "og:description",
       content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
     },
-    { property: "og:url", content: "https://zap-shoes.vercel.app/" },
+    { property: "og:url", content: "https://zapshoes.netlify.app" },
     { property: "og:type", content: "website" },
     {
       property: "og:image",
-      content: "https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png",
+      content: "https://zapshoes.netlify.app/logoweb.webp",
     },
-    { property: "og:image:width", content: "800" },
-    { property: "og:image:height", content: "418" },
     { property: "og:site_name", content: "ZapShoes" },
     { property: "og:locale", content: "es_ES" },
 
