@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       link: [
-        { rel: 'icon', type: 'image/png', href: '/preview.png' },
+        { rel: 'icon', type: 'image/webp', href: 'https://zapshoes.netlify.app/logoweb.webp' },
         // You can add more link tags here if needed
       ],
     },
