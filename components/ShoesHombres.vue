@@ -70,7 +70,7 @@ import productosHombres from '@/assets/shoesHombres.json';
 import productosHombresPuma from '@/assets/shoesHombrePuma.json';
 
 useSeoMeta({
-  title: 'ZapShoes',
+  title: "ZapShoes - Tu Tienda de Zapatillas Online",
   meta: [
     { property: 'og:site_name', content: 'ZapShoes' },
     { property: 'og:title', content: 'ZapShoes' },

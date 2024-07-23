@@ -84,7 +84,8 @@ useSeoMeta({
   title: "ZapShoes - Tu Tienda de Zapatillas Online",
   description: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
   ogDescription: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
-  ogImage: "https://fastmedicaltest.blob.core.windows.net/logo/logo_zapshoes.png",
+  ogImage: "https://zapshoes.netlify.app/preview.png",
+  useLink:" ",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
