@@ -13,6 +13,12 @@
           class="product-image"
         ></v-img>
       </v-card-text>
+
+      <!-- Botón visible solo si existe el token en localStorage -->
+      <v-card-actions v-if="isAdmin">
+        <v-btn color="primary" @click="handleAdminAction"> <v-icon color="red" >mdi-virus
+      </v-icon> </v-btn>
+      </v-card-actions>
     </v-card>
   </v-container>
 </template>
@@ -25,7 +31,6 @@ import { useRoute } from "vue-router";
 const route = useRoute();
 const idImagen = route.params._idImagen;
 const title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
-
 
 useSeoMeta({
   title: getTitle(title),
@@ -51,8 +56,29 @@ function getTitle(title) {
   return words.toUpperCase();
 }
 
-// Use onMounted to set fullDomain and call useHead
+// Estado para saber si el usuario es admin
+const isAdmin = ref(false);
+
+// Comprobar si el token existe en localStorage cuando el componente se monta
+onMounted(() => {
+  if (typeof window !== 'undefined') {
+    isAdmin.value = !!localStorage.getItem('tokenadmin');
+  }
+});
+
+// Handle admin button action
+function handleAdminAction() {
+  let r =route.params.title;
+  let enlace = 'articulo.mercadolibre.com.pe/' + r;
+  //cuando entre a esta funcion quiero que pueda copiar el string del enlace a mi portapapeles
+  navigator.clipboard.writeText(enlace).then(() => {
+    alert('Ready');
+  }).catch(err => {
+    console.error('Error al copiar: ', err);
+  });
+}
 </script>
+
 <style scoped>
 /* Estilos específicos para esta página */
 .product-list-title {
