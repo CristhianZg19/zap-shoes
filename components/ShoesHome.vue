@@ -3,7 +3,7 @@
     <v-card class="product-list-card">
       <v-card-title class="product-list-title">
         <h1 style="color: black">
-          Bienvenido a ZapShoes <v-icon>mdi-human-greeting</v-icon>
+          Bienvenido <v-icon>mdi-human-greeting</v-icon>
         </h1>
       </v-card-title>
       <v-card-text>
