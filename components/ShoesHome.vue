@@ -73,11 +73,11 @@
 import { ref, onMounted } from "vue";
 import { useRouter } from "vue-router";
 import { useDisplay } from "vuetify";
-import productosJsonHombre from "@/assets/shoesHombres.json";
-import productosJsonMujer from "@/assets/shoesMujer.json";
+import productosJsonHombre from "@/assets/adidasHombre.json";
+import productosJsonMujer from "@/assets/adidasMujer.json";
 
-import productosJsonHombrePuma from "@/assets/shoesHombrePuma.json";
-import productosJsonMujerPuma from "@/assets/shoesMujerPuma.json";
+import productosJsonHombrePuma from "@/assets/pumasHombre.json";
+import productosJsonMujerPuma from "@/assets/pumasMujer.json";
 
 // Configura los metadatos de la página
 useSeoMeta({
@@ -137,7 +137,7 @@ const shuffleArray = (array) => {
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
   const nombreProducto = producto.polycard.metadata.url.split("/").pop();
-  const url = `https://zapshoes.netlify.app/product/${idImagen}/${nombreProducto}`;
+  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
   const numeroTelefono = "+51952348779";

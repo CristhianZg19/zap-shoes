@@ -66,8 +66,8 @@
 import { ref, onMounted } from 'vue';
 import { useRouter } from 'vue-router';
 import { useDisplay } from 'vuetify';
-import productosHombres from '@/assets/shoesHombres.json';
-import productosHombresPuma from '@/assets/shoesHombrePuma.json';
+import productosHombres from '@/assets/adidasHombre.json';
+import productosHombresPuma from '@/assets/pumasHombre.json';
 
 useSeoMeta({
   title: "ZapShoes - Tu Tienda de Zapatillas Online",
@@ -126,7 +126,7 @@ const shuffleArray = (array) => {
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
   const nombreProducto = producto.polycard.metadata.url.split('/').pop();
-  const url = `https://zapshoes.netlify.app/product/${idImagen}/${nombreProducto}`;
+  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
   const numeroTelefono = '+51952348779';
