@@ -16,8 +16,10 @@
 
       <!-- Botón visible solo si existe el token en localStorage -->
       <v-card-actions v-if="isAdmin">
-        <v-btn color="primary" @click="handleAdminAction"> <v-icon color="red" >mdi-virus
-      </v-icon> </v-btn>
+        <v-btn color="primary" @click="handleAdminAction">
+          <v-icon color="red">mdi-virus </v-icon>
+        </v-btn>
+        <v-text v-if="isAdmin">{{ getPrice() }}</v-text>
       </v-card-actions>
     </v-card>
   </v-container>
@@ -26,6 +28,7 @@
 <script setup>
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
+import axios from "axios";
 
 // Obtén la ruta actual
 const route = useRoute();
@@ -40,12 +43,16 @@ useSeoMeta({
   ogImage: [
     {
       url: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
-      type: 'image/webp',
+      type: "image/webp",
     },
   ],
   link: [
-    { rel: 'icon', type: 'image/webp', href: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp` }
-  ]
+    {
+      rel: "icon",
+      type: "image/webp",
+      href: `https://http2.mlstatic.com/D_NQ_NP_${idImagen}-O.webp`,
+    },
+  ],
 });
 
 // Define getTitle function
@@ -61,20 +68,32 @@ const isAdmin = ref(false);
 
 // Comprobar si el token existe en localStorage cuando el componente se monta
 onMounted(() => {
-  if (typeof window !== 'undefined') {
-    isAdmin.value = !!localStorage.getItem('tokenadmin');
+  if (typeof window !== "undefined") {
+    isAdmin.value = !!localStorage.getItem("tokenadmin");
   }
 });
 
 // Handle admin button action
 function handleAdminAction() {
-  let r =route.params.title;
-  let enlace = 'articulo.mercadolibre.com.pe/' + r;
-  //cuando entre a esta funcion quiero que pueda copiar el string del enlace a mi portapapeles
-  navigator.clipboard.writeText(enlace).then(() => {
-    alert('Ready');
-  }).catch(err => {
-    console.error('Error al copiar: ', err);
+  let r = route.params.title;
+  let enlace = "articulo.mercadolibre.com.pe/" + r;
+  navigator.clipboard
+    .writeText(enlace)
+    .then(() => {
+      alert("Ready");
+    })
+    .catch((err) => {
+      console.error("Error al copiar: ", err);
+    });
+}
+
+async function getPrice() {
+  const r = route.params.title;
+  const enlace = `https://articulo.mercadolibre.com.pe/${r}`;
+  axios.get(enlace)
+  .then(response => {
+    const data = response.data;
+    console.log(data);
   });
 }
 </script>
