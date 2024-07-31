@@ -17,9 +17,9 @@
       <!-- Botón visible solo si existe el token en localStorage -->
       <v-card-actions v-if="isAdmin">
         <v-btn color="primary" @click="handleAdminAction">
-          <v-icon color="red">mdi-virus </v-icon>
+          <v-icon color="red">mdi-virus</v-icon>
         </v-btn>
-        <v-text v-if="isAdmin">{{ getPrice() }}</v-text>
+        <v-text v-if="isAdmin">{{ getPrice().toFixed(2) }}</v-text>
       </v-card-actions>
     </v-card>
   </v-container>
@@ -28,7 +28,6 @@
 <script setup>
 import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
-import axios from "axios";
 
 import productosJsonHombre from "@/assets/adidasHombre.json";
 import productosJsonMujer from "@/assets/adidasMujer.json";
@@ -41,12 +40,10 @@ const route = useRoute();
 const idImagen = route.params._idImagen;
 let title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
 
-const regex = /_(.*)/;
-const match = title.match(regex);
-const codigoProd = match ? match[1] : '';
+const codigoProd = title;
 
 // Elimina la parte de la URL que comienza con _ hasta el final
-title = title.replace(/_.*/, '');
+title = title.replace(/_.*/, "");
 const productos = ref([]);
 
 useSeoMeta({
@@ -93,6 +90,8 @@ onMounted(() => {
     ...productosJsonHombrePuma,
     ...productosJsonMujerPuma,
   ];
+
+  
 });
 
 // Handle admin button action
@@ -109,12 +108,35 @@ function handleAdminAction() {
     });
 }
 
-async function getPrice() {
-  console.log(codigoProd)
-  const product = this.productos.find(item => item.polycard.metadata.id === codigoProd);
-  console.log(product)
-  return product ? product.polycard.metadata.price : 'No disponible';
+ function getPrice() {
+
+  const words = codigoProd.split(" ");
+
+  // Extrae las dos primeras palabras y las une
+  const twoFirstWords = words[0] + words[1];
+
+
+  const product = this.productos.find(
+    (item) => item.polycard.metadata.id === twoFirstWords
+  );
+
+  if (product) {
+    let price = product.polycard.components[2].price.current_price.value;
+
+    if(product.sex === 'varon'){
+      price = price + 19;
+    }else{
+      price = price + 21;
+
+    }
+    return price; // Devuelve el precio como cadena
+  } else {
+    console.error("Producto no encontrado");
+    return "f"; // Devuelve una cadena vacía si no se encuentra el producto
+  }
 }
+
+
 
 </script>
 

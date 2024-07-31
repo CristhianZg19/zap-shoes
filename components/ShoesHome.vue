@@ -25,7 +25,14 @@
                 style="background-color: white"
               ></v-img>
               <v-card-text>
-                <p class="product-brand">{{ getBrand(producto) }}</p>
+                <p class="product-brand">
+                  {{ getBrand(producto) }}
+                  <span style="float: right">
+                    <v-icon class="copiarEnlace" @click="copiaEnlace(producto)"
+                      >mdi-content-copy</v-icon
+                    >
+                  </span>
+                </p>
                 <h3 class="product-title">{{ getTitle(producto) }}</h3>
                 <div class="product-details">
                   <div class="product-prices">
@@ -39,7 +46,7 @@
                   <v-btn
                     @mouseover="producto.hover = true"
                     @mouseleave="producto.hover = false"
-                    @click="productoXid(producto)"
+                    @click="quieroEsta(producto)"
                     class="mt-3 loquiero"
                     elevation="2"
                   >
@@ -66,6 +73,15 @@
         </v-row>
       </v-card-text>
     </v-card>
+    <v-snackbar v-model="snackbar" :timeout="3000"  location="top"
+    >
+      {{ snackbarMessage }}
+      <template v-slot:action="{ attrs }">
+        <v-btn color="pink" text v-bind="attrs" @click="snackbar = false">
+          Close
+        </v-btn>
+      </template>
+    </v-snackbar>
   </v-container>
 </template>
 
@@ -82,49 +98,57 @@ import productosJsonMujerPuma from "@/assets/pumasMujer.json";
 // Configura los metadatos de la página
 useSeoMeta({
   title: "ZapShoes - Tu Tienda de Zapatillas Online",
-  description: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
-  ogDescription: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
-  ogImage: "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
+  description:
+    "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogDescription:
+    "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+  ogImage:
+    "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
     {
       hid: "description",
       name: "description",
-      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+      content:
+        "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
     },
     {
       name: "keywords",
-      content: "zapatillas, tienda de zapatillas, zap shoes, calzado, moda, compra zapatillas, estilos de zapatillas",
+      content:
+        "zapatillas, tienda de zapatillas, zap shoes, calzado, moda, compra zapatillas, estilos de zapatillas",
     },
 
     // Open Graph Meta Tags
     { property: "og:title", content: "ZapShoes - Tienda de Zapatillas Online" },
     {
       property: "og:description",
-      content: "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
+      content:
+        "ZapShoes es tu tienda en línea de zapatillas, ofreciendo una amplia variedad de modelos y estilos para todos los gustos.",
     },
     { property: "og:url", content: "https://zapshoes.netlify.app" },
     { property: "og:type", content: "website" },
     {
       property: "og:image",
-      content: "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
+      content:
+        "https://fastmedicaltest.blob.core.windows.net/fastmedical/logoweb.webp",
     },
     { property: "og:site_name", content: "ZapShoes" },
     { property: "og:locale", content: "es_ES" },
 
     // Robots Meta Tag
     { name: "robots", content: "index, follow" },
-    { name: "author", content: "Cristhian Zapata Galdos" }
+    { name: "author", content: "Cristhian Zapata Galdos" },
   ],
 });
-
 
 const router = useRouter();
 const productos = ref([]);
 const display = useDisplay();
 const hover = ref(null); // Variable para rastrear el botón sobre el que está el cursor
-
+const snackbar = ref(false);
+const snackbarMessage = ref("");
+const y = ref("top");
 
 const shuffleArray = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -133,20 +157,41 @@ const shuffleArray = (array) => {
   }
   return array;
 };
-
+const showSnackbar = (message) => {
+  snackbarMessage.value = message;
+  snackbar.value = true;
+};
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
 
   const idproduc = producto.polycard.metadata.id;
 
-
   const nombreProducto = producto.polycard.metadata.url.split("/").pop();
-  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}/${idproduc}`;
+  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
   const numeroTelefono = "+51952348779";
   const enlaceWhatsApp = `https://wa.me/${numeroTelefono}?text=${mensajeCodificado}`;
   window.open(enlaceWhatsApp, "_blank");
+};
+
+const copiaEnlace = (producto) => {
+  const idImagen = producto.polycard.pictures.pictures[0].id;
+  const nombreProducto = producto.polycard.metadata.url.split("/").pop();
+
+  // Construct the URL without encoding
+  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
+
+  navigator.clipboard
+    .writeText(url)
+    .then(() => {
+      showSnackbar("Enlace copiado!");
+
+      console.log("URL copied to clipboard!");
+    })
+    .catch((err) => {
+      // console.error("Failed to copy URL: ", err);
+    });
 };
 
 const productoXid = (producto) => {
@@ -224,7 +269,7 @@ const getPreviousPrice = (producto) => {
     const additionalPrice = sex === "varon" ? 19 : 21;
     return (parseFloat(previousPrice) + additionalPrice).toFixed(2);
   } else {
-    console.error("Precio anterior no encontrado para el producto");
+    //console.error("Precio anterior no encontrado para el producto");
     return null;
   }
 };
@@ -251,4 +296,5 @@ onMounted(() => {
 
 <style>
 /* Estilos específicos para el componente */
+
 </style>
