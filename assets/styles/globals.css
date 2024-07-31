@@ -2,9 +2,9 @@
     display: flex;
     background: rgb(var(--v-theme-background));
     color: greenyellow;
-  }
-  
-  .v-application__wrap {
+}
+
+.v-application__wrap {
     backface-visibility: hidden;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,8 @@
     min-height: 100vh;
     min-height: 100dvh;
     position: relative;
-  }
+}
+
 .product-list-card {
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -44,7 +45,7 @@
 .copiarEnlace {
     cursor: pointer;
     color: blue;
-  }
+}
 
 .product-details .loquiero {
     background-color: #ffdd57;
@@ -148,7 +149,7 @@
     .v-container {
         max-width: 100%;
     }
-    
+
 }
 
 @media only screen and (max-width: 600px) {

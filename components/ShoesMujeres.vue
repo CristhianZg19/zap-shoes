@@ -83,14 +83,15 @@
     </v-snackbar>
   </v-container>
 </template>
-                    
-                    <script setup>
+
+
+<script setup>
 import { ref, onMounted } from "vue";
 import { useRouter } from "vue-router";
 import { useDisplay } from "vuetify";
-import productosJsonHombre from "@/assets/adidasHombre.json";
+import productosJsonMujer from "@/assets/adidasMujer.json";
 
-import productosJsonHombrePuma from "@/assets/pumasHombre.json";
+import productosJsonMujerPuma from "@/assets/pumasMujer.json";
 
 // Configura los metadatos de la página
 useSeoMeta({
@@ -277,7 +278,10 @@ const getImageUrl = (producto) => {
 };
 
 onMounted(() => {
-  productos.value = [...productosJsonHombre, ...productosJsonHombrePuma];
+  productos.value = [
+    ...productosJsonMujer,
+    ...productosJsonMujerPuma,
+  ];
   productos.value = productos.value.map((producto) => ({
     ...producto,
     hover: false, // Añadir la propiedad hover a cada producto
@@ -285,9 +289,4 @@ onMounted(() => {
   productos.value = shuffleArray(productos.value);
 });
 </script>
-                    
-                    <style>
-/* Estilos específicos para el componente */
 
-</style>
-                    
