@@ -39,7 +39,7 @@
                   <v-btn
                     @mouseover="producto.hover = true"
                     @mouseleave="producto.hover = false"
-                    @click="quieroEsta(producto)"
+                    @click="productoXid(producto)"
                     class="mt-3 loquiero"
                     elevation="2"
                   >
@@ -136,8 +136,12 @@ const shuffleArray = (array) => {
 
 const quieroEsta = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
+
+  const idproduc = producto.polycard.metadata.id;
+
+
   const nombreProducto = producto.polycard.metadata.url.split("/").pop();
-  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}`;
+  const url = `https://zap-shoes.netlify.app/product/${idImagen}/${nombreProducto}/${idproduc}`;
   const mensaje = `${url}`;
   const mensajeCodificado = encodeURIComponent(mensaje);
   const numeroTelefono = "+51952348779";
@@ -147,9 +151,12 @@ const quieroEsta = (producto) => {
 
 const productoXid = (producto) => {
   const idImagen = producto.polycard.pictures.pictures[0].id;
+
+  const idproduc = producto.polycard.metadata.id;
+
   const title = getName(producto);
   router.push({
-    path: `/product/${idImagen}/${encodeURIComponent(title)}`, // Asegúrate de codificar el título
+    path: `/product/${idImagen}/${encodeURIComponent(title)}_-${idproduc}`, // Asegúrate de codificar el título
   });
 };
 

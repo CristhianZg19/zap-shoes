@@ -7,8 +7,8 @@
       "metadata": {
         "id": "MPE605439311",
         "url": "articulo.mercadolibre.com.pe/MPE-605439311-sandalias-adidas-unisex-adilette-aqua-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=173976215909&position=1&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183885183319&position=1&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183885183319",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -34,6 +34,7 @@
             "variations": [
               {
                 "variation_id": "173976215909",
+                "url_params": "searchVariation=173976215909#searchVariation%3D183885183319%26position%3D1%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D2e56d53c-44a0-41d8-ae3f-231807372f71",
                 "description": "dark blue/ftwr white/dark blue",
                 "pictures": [
                   {
@@ -43,6 +44,7 @@
               },
               {
                 "variation_id": "173976215924",
+                "url_params": "searchVariation=173976215924#searchVariation%3D183885183319%26position%3D1%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D2e56d53c-44a0-41d8-ae3f-231807372f71",
                 "description": "Core black/Ftwr white/Core black",
                 "pictures": [
                   {
@@ -75,7 +77,7 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 83.93,
+              "value": 89.92,
               "currency": "PEN",
               "decimal_style": "superscript"
             },
@@ -85,7 +87,7 @@
               "decimal_style": "normal"
             },
             "discount": {
-              "value": 15
+              "value": 9
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -105,7 +107,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 6.99,
+                    "value": 7.49,
                     "currency": "PEN"
                   }
                 }
@@ -130,171 +132,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE666272250",
-        "url": "articulo.mercadolibre.com.pe/MPE-666272250-zapatillas-adidas-mujer-running-sheenwalk-w-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=181703059067&position=2&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE679474222",
+        "url": "articulo.mercadolibre.com.pe/MPE-679474222-zapatillas-adidas-sin-genero-advantage-k-gy6995-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183599741643&position=2&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183599741643",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "738069-MPE74369958820_022024"
-          }
-        ],
-        "square": "Q",
-        "variation_id": "181836709141"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "variations",
-          "id": "variations",
-          "variations": {
-            "picture_size": "M",
-            "variations": [
-              {
-                "variation_id": "181836709141",
-                "description": "GC0556",
-                "pictures": [
-                  {
-                    "id": "738069-MPE74369958820_022024"
-                  }
-                ]
-              },
-              {
-                "variation_id": "181837436195",
-                "description": "GC0557",
-                "pictures": [
-                  {
-                    "id": "873430-MPE74720910709_022024"
-                  }
-                ]
-              },
-              {
-                "variation_id": "181684169225",
-                "description": "GC0555",
-                "pictures": [
-                  {
-                    "id": "748987-MPE74489249691_022024"
-                  }
-                ]
-              }
-            ],
-            "label": "3 colores",
-            "total_variations": 3
-          }
-        },
-        {
-          "type": "highlight",
-          "id": "highlight",
-          "highlight": {
-            "text": "MÁS VENDIDO",
-            "styles": {
-              "color_hex": "#FFFFFF",
-              "background_color_hex": "#FF7733"
-            }
-          }
-        },
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Sheenwalk W",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.7,
-            "total": 169,
-            "alt_text": "Calificación 4.7 de 5 (169 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 106,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 169,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 37
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 8.83,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE670804902",
-        "url": "articulo.mercadolibre.com.pe/MPE-670804902-zapatillas-adidas-sin-genero-grand-court-20-k-id7869-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323270572&position=3&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "896376-MPE75683815092_042024"
+            "id": "818788-MPE77602274535_072024"
           }
         ],
         "square": "Q"
@@ -315,7 +163,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Sin Genero Grand Court 2.0 K Id7869 Blanco",
+            "text": "Zapatillas adidas Sin Genero Advantage K Gy6995 Blanco",
             "long_title": false
           }
         },
@@ -324,17 +172,17 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 113.94,
+              "value": 127.92,
               "currency": "PEN",
               "decimal_style": "superscript"
             },
             "previous_price": {
-              "value": 189.9,
+              "value": 159.9,
               "currency": "PEN",
               "decimal_style": "normal"
             },
             "discount": {
-              "value": 40
+              "value": 20
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -354,7 +202,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 9.49,
+                    "value": 10.66,
                     "currency": "PEN"
                   }
                 }
@@ -379,17 +227,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE667218432",
-        "url": "articulo.mercadolibre.com.pe/MPE-667218432-zapatillas-adidas-mujer-qt-racer-30-if2814-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=181858790265&position=4&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE670804944",
+        "url": "articulo.mercadolibre.com.pe/MPE-670804944-zapatillas-adidas-sin-genero-tensaur-sport-20-k-gw6423-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323273472&position=3&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180323273472",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "923330-MPE74623593308_022024"
+            "id": "793952-MPE75683973182_042024"
           }
         ],
         "square": "Q"
@@ -410,7 +258,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Qt Racer 3.0 If2814 Negro",
+            "text": "Zapatillas adidas Sin Genero Tensaur Sport 2.0 K Gw6423",
             "long_title": false
           }
         },
@@ -419,17 +267,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 124.95,
+              "value": 149.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 50
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -449,1126 +289,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 10.41,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE656646926",
-        "url": "articulo.mercadolibre.com.pe/MPE-656646926-zapatillas-adidas-mujer-response-runner-id7337-azul-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=178970618466&position=5&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "915871-MPE72248639845_102023"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Response Runner Id7337 Azul",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 132.93,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 189.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 30
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 11.08,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676549156",
-        "url": "articulo.mercadolibre.com.pe/MPE-676549156-zapatillas-adidas-mujer-running-runfalcon-5-ie8828-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180759382048&position=6&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "842760-MPE77445487620_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "highlight",
-          "id": "highlight",
-          "highlight": {
-            "text": "OFERTA DEL DÍA",
-            "styles": {
-              "color_hex": "#FFFFFF",
-              "background_color_hex": "#3483FA"
-            }
-          }
-        },
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Runfalcon 5 | Ie8828",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 139,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 30
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 11.58,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE672991446",
-        "url": "articulo.mercadolibre.com.pe/MPE-672991446-zapatillas-adidas-mujer-outdoor-tracefinder-ie5909-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182659169379&position=7&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "996909-MPE76175241519_052024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Outdoor Tracefinder | Ie5909",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.7,
-            "total": 21,
-            "alt_text": "Calificación 4.7 de 5 (21 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 141,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 29
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 11.75,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE657441440",
-        "url": "articulo.mercadolibre.com.pe/MPE-657441440-zapatillas-adidas-grand-court-20-el-k-ig4838-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=179040436120&position=8&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "933671-MPE72345893562_102023"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Grand Court 2.0 El K | Ig4838",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 142,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 189,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 11.83,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE672900322",
-        "url": "articulo.mercadolibre.com.pe/MPE-672900322-zapatillas-adidas-mujer-running-switch-move-id8332-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180410205440&position=9&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "996760-MPE76175309825_052024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Switch Move | Id8332",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.8,
-            "total": 13,
-            "alt_text": "Calificación 4.8 de 5 (13 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 146,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 179,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 18
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.17,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676497142",
-        "url": "articulo.mercadolibre.com.pe/MPE-676497142-zapatillas-adidas-mujer-outdoor-tracefinder-ie5913-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=183217206521&position=10&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "704193-MPE77102401633_062024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Outdoor Tracefinder | Ie5913",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.8,
-            "total": 6,
-            "alt_text": "Calificación 4.8 de 5 (6 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 146,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 26
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.17,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE672913386",
-        "url": "articulo.mercadolibre.com.pe/MPE-672913386-zapatillas-adidas-mujer-running-runfalcon-30-ie0748-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180410230874&position=11&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "684126-MPE76175231565_052024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Runfalcon 3.0 | Ie0748",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 3.8,
-            "total": 6,
-            "alt_text": "Calificación 3.8 de 5 (6 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 146.32,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 26
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.19,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE672978382",
-        "url": "articulo.mercadolibre.com.pe/MPE-672978382-zapatillas-adidas-mujer-running-galaxy-6-ie8151-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180410218318&position=12&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "652102-MPE76175309945_052024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Galaxy 6 | Ie8151",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.7,
-            "total": 22,
-            "alt_text": "Calificación 4.7 de 5 (22 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 146.32,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 26
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.19,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE678790474",
-        "url": "articulo.mercadolibre.com.pe/MPE-678790474-zapatillas-adidas-mujer-runfalcon-5-ie8828-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=183499637221&position=13&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "932434-MPE77468993349_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Runfalcon 5 Ie8828 Negro",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 149,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 25
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.42,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE678894526",
-        "url": "articulo.mercadolibre.com.pe/MPE-678894526-zapatillas-adidas-mujer-runfalcon-5-ih7759-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180952880940&position=14&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "923438-MPE77254247796_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Runfalcon 5 Ih7759 Negro",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 5,
-            "total": 5,
-            "alt_text": "Calificación 5 de 5 (5 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 149,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 25
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.42,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE678894528",
-        "url": "articulo.mercadolibre.com.pe/MPE-678894528-zapatillas-adidas-mujer-runfalcon-5-ie8820-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180952880962&position=15&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "887529-MPE77254247820_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Runfalcon 5 Ie8820 Blanco",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 5,
-            "total": 4,
-            "alt_text": "Calificación 5 de 5 (4 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 149,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 199.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 25
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.42,
+                    "value": 12.49,
                     "currency": "PEN"
                   }
                 }
@@ -1595,8 +316,8 @@
       "metadata": {
         "id": "MPE670856988",
         "url": "articulo.mercadolibre.com.pe/MPE-670856988-zapatillas-adidas-sin-genero-goletto-viii-tf-j-hq4485-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182501423557&position=16&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182501423557&position=4&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=182501423557",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -1680,17 +401,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE621520772",
-        "url": "articulo.mercadolibre.com.pe/MPE-621520772-zapatillas-adidas-mujer-running-lite-racer-30-gx1721-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175762347293&position=17&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE625459387",
+        "url": "articulo.mercadolibre.com.pe/MPE-625459387-zapatillas-adidas-mujer-eq19-run-gy4732-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=176411652784&position=5&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=176411652784",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "623454-MPE52407769738_112022"
+            "id": "933794-MPE53465586986_012023"
           }
         ],
         "square": "Q"
@@ -1711,7 +432,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Running Lite Racer 3.0 | Gx1721",
+            "text": "Zapatillas adidas Mujer Eq19 Run Gy4732 Negro",
             "long_title": false
           }
         },
@@ -1720,17 +441,17 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 151.9,
+              "value": 149.95,
               "currency": "PEN",
               "decimal_style": "superscript"
             },
             "previous_price": {
-              "value": 199,
+              "value": 299.9,
               "currency": "PEN",
               "decimal_style": "normal"
             },
             "discount": {
-              "value": 23
+              "value": 50
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -1750,7 +471,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 12.66,
+                    "value": 12.5,
                     "currency": "PEN"
                   }
                 }
@@ -1777,8 +498,8 @@
       "metadata": {
         "id": "MPE662038602",
         "url": "articulo.mercadolibre.com.pe/MPE-662038602-zapatillas-adidas-sin-genero-grand-court-20-el-k-hp8914-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180966586511&position=18&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180966586511&position=6&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180966586511",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -1870,17 +591,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE668449650",
-        "url": "articulo.mercadolibre.com.pe/MPE-668449650-zapatillas-adidas-mujer-courtblock-if6492-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182040127971&position=19&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE679474190",
+        "url": "articulo.mercadolibre.com.pe/MPE-679474190-zapatilla-adidas-hp7558-5-8-runfalcon-30-w-mujer-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183599735057&position=7&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183599735057",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "634114-MPE74918109248_032024"
+            "id": "796093-MPE77385478754_072024"
           }
         ],
         "square": "Q"
@@ -1901,215 +622,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Courtblock If6492 Negro",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.6,
-            "total": 21,
-            "alt_text": "Calificación 4.6 de 5 (21 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 152.34,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 239.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 36
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 12.7,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE657570190",
-        "url": "articulo.mercadolibre.com.pe/MPE-657570190-zapatillas-adidas-mujer-running-galaxy-6-hp2409-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182425194659&position=20&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "700815-MPE75716594489_042024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Galaxy 6 | Hp2409",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 5,
-            "total": 11,
-            "alt_text": "Calificación 5 de 5 (11 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 156.2,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 209,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 25
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.02,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE678829732",
-        "url": "articulo.mercadolibre.com.pe/MPE-678829732-zapatillas-adidas-mujer-courtblock-ig6884-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180952843218&position=21&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "888486-MPE77468993375_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Courtblock Ig6884 Blanco",
+            "text": "Zapatilla adidas Hp7558 (5-8*) Runfalcon 3.0 W Mujer",
             "long_title": false
           }
         },
@@ -2118,491 +631,7 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 159,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 229.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 30
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.25,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE678868490",
-        "url": "articulo.mercadolibre.com.pe/MPE-678868490-zapatillas-adidas-mujer-courtblock-ig6879-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=183499536095&position=22&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "617967-MPE77254247764_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Courtblock Ig6879 Blanco",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 159,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 229.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 30
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.25,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE621507828",
-        "url": "articulo.mercadolibre.com.pe/MPE-621507828-zapatillas-adidas-unisex-basketball-hoops-30-cf-i-gw0442-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175762098263&position=23&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "686905-MPE52407776598_112022"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Unisex Basketball Hoops 3.0 Cf I | Gw0442",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 5,
-            "total": 1,
-            "alt_text": "Calificación 5 de 5 (1 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 160.5,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 189,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 15
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.38,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE618920365",
-        "url": "articulo.mercadolibre.com.pe/MPE-618920365-zapatillas-adidas-mujer-running-run-60s-20-gy1128-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175418379558&position=24&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "941200-MPE51842655184_102022"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Run 60s 2.0 | Gy1128",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 164,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 219,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 25
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE657609336",
-        "url": "articulo.mercadolibre.com.pe/MPE-657609336-zapatillas-adidas-mujer-running-duramo-sl-20-hp2385-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=179040415112&position=25&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "731916-MPE72412270231_102023"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Duramo Sl 2.0 | Hp2385",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 166.2,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 219,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 13.85,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676549166",
-        "url": "articulo.mercadolibre.com.pe/MPE-676549166-zapatillas-adidas-mujer-running-runfalcon-30-ie0749-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180759382114&position=26&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "645655-MPE76893614346_062024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Running Runfalcon 3.0 | Ie0749",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 167,
+              "value": 159.2,
               "currency": "PEN",
               "decimal_style": "superscript"
             },
@@ -2612,7 +641,7 @@
               "decimal_style": "normal"
             },
             "discount": {
-              "value": 16
+              "value": 20
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -2632,7 +661,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 13.92,
+                    "value": 13.27,
                     "currency": "PEN"
                   }
                 }
@@ -2657,17 +686,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE646365918",
-        "url": "articulo.mercadolibre.com.pe/MPE-646365918-zapatillas-adidas-mujer-court-platform-id1970-gris-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=178102650322&position=27&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE670817898",
+        "url": "articulo.mercadolibre.com.pe/MPE-670817898-zapatillas-adidas-sin-genero-tensaur-sport-20-cf-k-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323302526&position=8&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180323302526",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "840456-MPE70217223864_062023"
+            "id": "908441-MPE75683806660_042024"
           }
         ],
         "square": "Q"
@@ -2688,7 +717,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Court Platform Id1970 Gris",
+            "text": "Zapatillas adidas Sin Genero Tensaur Sport 2.0 Cf K",
             "long_title": false
           }
         },
@@ -2697,17 +726,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 169.61,
+              "value": 159.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 32
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -2727,7 +748,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.13,
+                    "value": 13.33,
                     "currency": "PEN"
                   }
                 }
@@ -2752,17 +773,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE668358560",
-        "url": "articulo.mercadolibre.com.pe/MPE-668358560-zapatillas-adidas-mujer-court-platform-id3345-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180027373198&position=28&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE670908982",
+        "url": "articulo.mercadolibre.com.pe/MPE-670908982-zapatillas-adidas-sin-genero-tensaur-sport-20-cf-k-ps-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323283712&position=9&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180323283712",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "802896-MPE74918109224_032024"
+            "id": "720289-MPE75683806966_042024"
           }
         ],
         "square": "Q"
@@ -2783,7 +804,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Court Platform Id3345 Blanco",
+            "text": "Zapatillas adidas Sin Genero Tensaur Sport 2.0 Cf K Ps",
             "long_title": false
           }
         },
@@ -2792,17 +813,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 169.61,
+              "value": 159.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 32
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -2822,7 +835,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.13,
+                    "value": 13.33,
                     "currency": "PEN"
                   }
                 }
@@ -2847,26 +860,79 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE670960264",
-        "url": "articulo.mercadolibre.com.pe/MPE-670960264-zapatillas-adidas-mujer-court-platform-ig8606-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182501434219&position=29&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE666272250",
+        "url": "articulo.mercadolibre.com.pe/MPE-666272250-zapatillas-adidas-mujer-running-sheenwalk-w-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181703059067&position=10&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181703059067",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "883968-MPE75683789748_042024"
+            "id": "738069-MPE74369958820_022024"
           }
         ],
-        "square": "Q"
+        "square": "Q",
+        "variation_id": "181703059071"
       },
       "bookmark": {
         "alt_text": "Favorito",
         "bookmarked": false
       },
       "components": [
+        {
+          "type": "variations",
+          "id": "variations",
+          "variations": {
+            "picture_size": "M",
+            "variations": [
+              {
+                "variation_id": "181703059071",
+                "url_params": "searchVariation=181703059071#searchVariation%3D181703059067%26position%3D10%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D2e56d53c-44a0-41d8-ae3f-231807372f71",
+                "description": "GC0556",
+                "pictures": [
+                  {
+                    "id": "738069-MPE74369958820_022024"
+                  }
+                ]
+              },
+              {
+                "variation_id": "181837436195",
+                "url_params": "searchVariation=181837436195#searchVariation%3D181703059067%26position%3D10%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D2e56d53c-44a0-41d8-ae3f-231807372f71",
+                "description": "GC0557",
+                "pictures": [
+                  {
+                    "id": "873430-MPE74720910709_022024"
+                  }
+                ]
+              },
+              {
+                "variation_id": "181684169225",
+                "url_params": "searchVariation=181684169225#searchVariation%3D181703059067%26position%3D10%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D2e56d53c-44a0-41d8-ae3f-231807372f71",
+                "description": "GC0555",
+                "pictures": [
+                  {
+                    "id": "748987-MPE74489249691_022024"
+                  }
+                ]
+              }
+            ],
+            "label": "3 colores",
+            "total_variations": 3
+          }
+        },
+        {
+          "type": "highlight",
+          "id": "highlight",
+          "highlight": {
+            "text": "MÁS VENDIDO",
+            "styles": {
+              "color_hex": "#FFFFFF",
+              "background_color_hex": "#FF7733"
+            }
+          }
+        },
         {
           "type": "brand",
           "id": "brand",
@@ -2878,8 +944,17 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Court Platform Ig8606 Blanco",
+            "text": "Zapatillas adidas Mujer Running Sheenwalk W",
             "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.6,
+            "total": 197,
+            "alt_text": "Calificación 4.6 de 5 (197 calificaciones)"
           }
         },
         {
@@ -2887,17 +962,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 169.61,
+              "value": 169,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 32
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -2917,7 +984,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.13,
+                    "value": 14.08,
                     "currency": "PEN"
                   }
                 }
@@ -2942,17 +1009,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE657441382",
-        "url": "articulo.mercadolibre.com.pe/MPE-657441382-zapatillas-adidas-mujer-urbanas-court-platform-ie9987-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=179038886950&position=30&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE614552048",
+        "url": "articulo.mercadolibre.com.pe/MPE-614552048-zapatillas-adidas-unisex-goletto-viii-tf-j-gy5780-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=174741186397&position=11&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=174741186397",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "971618-MPE72410049767_102023"
+            "id": "687551-MPE50545506563_072022"
           }
         ],
         "square": "Q"
@@ -2973,8 +1040,17 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Court Platform | Ie9987",
+            "text": "Zapatillas adidas Unisex Goletto Viii Tf J Gy5780 Negro",
             "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 5,
+            "total": 2,
+            "alt_text": "Calificación 5 de 5 (2 calificaciones)"
           }
         },
         {
@@ -2982,17 +1058,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 172.8,
+              "value": 169.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 30
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -3012,7 +1080,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.4,
+                    "value": 14.16,
                     "currency": "PEN"
                   }
                 }
@@ -3037,17 +1105,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE676562138",
-        "url": "articulo.mercadolibre.com.pe/MPE-676562138-zapatillas-adidas-mujer-grand-court-base-20-ig6374-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180759345180&position=31&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE667358402",
+        "url": "articulo.mercadolibre.com.pe/MPE-667358402-zapatillas-adidas-sin-genero-goletto-viii-tf-j-gy5782-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179912609282&position=12&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=179912609282",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "852769-MPE77102401857_062024"
+            "id": "659608-MPE74624534694_022024"
           }
         ],
         "square": "Q"
@@ -3068,7 +1136,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Grand Court Base 2.0 | Ig6374",
+            "text": "Zapatillas adidas Sin Genero Goletto Viii Tf J Gy5782 Blanco",
             "long_title": false
           }
         },
@@ -3077,17 +1145,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 177,
+              "value": 169.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 209,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 15
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -3107,7 +1167,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.75,
+                    "value": 14.16,
                     "currency": "PEN"
                   }
                 }
@@ -3132,17 +1192,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE657441438",
-        "url": "articulo.mercadolibre.com.pe/MPE-657441438-zapatillas-adidas-mujer-urbanas-streetcheck-gz4969-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=179040436112&position=32&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE679474224",
+        "url": "articulo.mercadolibre.com.pe/MPE-679474224-zapatillas-adidas-sin-genero-tensaur-run-20-k-ig1244-azul-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183599741655&position=13&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183599741655",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "982192-MPE72412270359_102023"
+            "id": "699357-MPE77602281249_072024"
           }
         ],
         "square": "Q"
@@ -3163,7 +1223,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Streetcheck | Gz4969",
+            "text": "Zapatillas adidas Sin Genero Tensaur Run 2.0 K Ig1244 Azul",
             "long_title": false
           }
         },
@@ -3172,17 +1232,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 178.3,
+              "value": 169.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 279,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 36
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -3202,7 +1254,1101 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 14.86,
+                    "value": 14.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487204",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487204-zapatillas-adidas-sin-genero-tensaur-run-20-k-ig1248-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019035060&position=14&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181019035060",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "949755-MPE77386064278_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Tensaur Run 2.0 K Ig1248 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 169.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487206",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487206-zapatillas-adidas-sin-genero-tensaur-run-20-k-ig8572-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019035072&position=15&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181019035072",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "760802-MPE77386064250_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Tensaur Run 2.0 K Ig8572 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 169.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487212",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487212-zapatillas-adidas-sin-genero-tensaur-run-20-k-ig1249-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019035104&position=16&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181019035104",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "946717-MPE77602281211_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Tensaur Run 2.0 K Ig1249 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 169.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.16,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487180",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487180-zapatilla-adidas-if5393-5-8-lite-racer-30-mujer-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183599710385&position=17&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183599710385",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "914873-MPE77385485926_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatilla adidas If5393 (5*-8*) Lite Racer 3.0 Mujer",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 175.2,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 20
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.6,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE651145798",
+        "url": "articulo.mercadolibre.com.pe/MPE-651145798-zapatillas-adidas-unisex-predator-accuracy4-tf-ie9444-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178551995958&position=18&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=178551995958",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "915086-MPE71278331477_082023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Unisex Predator Accuracy.4 Tf Ie9444",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 175.92,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 20
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487108",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487108-zapatillas-adidas-mujer-lite-racer-30-if5392-rosado-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018202888&position=19&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018202888",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "962371-MPE77384562160_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Lite Racer 3.0 If5392 Rosado",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 175.92,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 219.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 20
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.66,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE672900322",
+        "url": "articulo.mercadolibre.com.pe/MPE-672900322-zapatillas-adidas-mujer-running-switch-move-id8332-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180410205442&position=20&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180410205442",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "996760-MPE76175309825_052024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Running Switch Move | Id8332",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.7,
+            "total": 15,
+            "alt_text": "Calificación 4.7 de 5 (15 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.92,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE616053679",
+        "url": "articulo.mercadolibre.com.pe/MPE-616053679-zapatillas-adidas-unisex-goletto-viii-tf-gy5774-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=174963764026&position=21&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=174963764026",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "674567-MPE74481571176_022024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Unisex Goletto Viii Tf Gy5774 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.6,
+            "total": 11,
+            "alt_text": "Calificación 4.6 de 5 (11 calificaciones)"
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "previous_price": {
+              "value": 199.9,
+              "currency": "PEN",
+              "decimal_style": "normal"
+            },
+            "discount": {
+              "value": 10
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670804942",
+        "url": "articulo.mercadolibre.com.pe/MPE-670804942-zapatillas-adidas-sin-genero-breaknet-20-k-ie0253-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323273446&position=22&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180323273446",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "626253-MPE75683985146_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Breaknet 2.0 K Ie0253 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE678855518",
+        "url": "articulo.mercadolibre.com.pe/MPE-678855518-zapatillas-adidas-mujer-switch-move-if9341-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183499548657&position=23&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183499548657",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "758395-MPE77468993451_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Switch Move If9341 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE678868492",
+        "url": "articulo.mercadolibre.com.pe/MPE-678868492-zapatillas-adidas-mujer-lite-racer-40-ie8565-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183499536113&position=24&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183499536113",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "617186-MPE77254244616_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Lite Racer 4.0 Ie8565 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE678928012",
+        "url": "articulo.mercadolibre.com.pe/MPE-678928012-zapatillas-adidas-mujer-switch-move-ig1758-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183499759421&position=25&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183499759421",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "774332-MPE77254244562_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Switch Move Ig1758 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
                     "currency": "PEN"
                   }
                 }
@@ -3229,8 +2375,8 @@
       "metadata": {
         "id": "MPE679435100",
         "url": "articulo.mercadolibre.com.pe/MPE-679435100-zapatillas-adidas-sin-genero-goletto-viii-tf-hp3063-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018190910&position=33&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018190910&position=26&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018190910",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -3314,10 +2460,619 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
+        "id": "MPE679435112",
+        "url": "articulo.mercadolibre.com.pe/MPE-679435112-zapatillas-adidas-sin-genero-goletto-viii-tf-ih8299-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018191016&position=27&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018191016",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "691796-MPE77600816695_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Goletto Viii Tf Ih8299 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679448114",
+        "url": "articulo.mercadolibre.com.pe/MPE-679448114-zapatillas-adidas-sin-genero-goletto-viii-fg-hp6460-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018266820&position=28&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018266820",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "745458-MPE77384562086_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Goletto Viii Fg Hp6460 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679448152",
+        "url": "articulo.mercadolibre.com.pe/MPE-679448152-zapatillas-adidas-mujer-switch-move-id5257-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018267154&position=29&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018267154",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "789566-MPE77600825735_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Switch Move Id5257 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679461082",
+        "url": "articulo.mercadolibre.com.pe/MPE-679461082-zapatillas-adidas-mujer-switch-move-id8331-rojo-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018139464&position=30&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018139464",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "636629-MPE77384561374_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Mujer Switch Move Id8331 Rojo",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679461094",
+        "url": "articulo.mercadolibre.com.pe/MPE-679461094-zapatillas-adidas-sin-genero-goletto-viii-in-hp6451-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018139568&position=31&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018139568",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "602173-MPE77600816017_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Goletto Viii In Hp6451 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487124",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487124-zapatillas-adidas-sin-genero-switch-move-id5253-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018203018&position=32&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018203018",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "778442-MPE77600817167_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Switch Move Id5253 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679513136",
+        "url": "articulo.mercadolibre.com.pe/MPE-679513136-zapatillas-adidas-sin-genero-goletto-viii-tf-hq4484-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018280068&position=33&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018280068",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "632192-MPE77600826701_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Goletto Viii Tf Hq4484 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 179.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 14.99,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
         "id": "MPE679526148",
         "url": "articulo.mercadolibre.com.pe/MPE-679526148-zapatillas-adidas-mujer-switch-move-id5258-negro-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018164928&position=34&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018164928&position=34&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018164928",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -3401,17 +3156,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE670869976",
-        "url": "articulo.mercadolibre.com.pe/MPE-670869976-zapatillas-adidas-mujer-breaknet-20-id0498-blanco-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182501465857&position=35&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE679565094",
+        "url": "articulo.mercadolibre.com.pe/MPE-679565094-zapatillas-adidas-sin-genero-switch-move-id8328-gris-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018003768&position=35&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018003768",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "811864-MPE75683807434_042024"
+            "id": "730209-MPE77600825249_072024"
           }
         ],
         "square": "Q"
@@ -3432,7 +3187,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Breaknet 2.0 Id0498 Blanco",
+            "text": "Zapatillas adidas Sin Genero Switch Move Id8328 Gris",
             "long_title": false
           }
         },
@@ -3441,17 +3196,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 183.92,
+              "value": 179.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 229.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 20
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -3471,7 +3218,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 15.33,
+                    "value": 14.99,
                     "currency": "PEN"
                   }
                 }
@@ -3496,17 +3243,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE621444484",
-        "url": "articulo.mercadolibre.com.pe/MPE-621444484-zapatillas-adidas-mujer-running-run-70s-gw3663-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175762309523&position=36&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE656685384",
+        "url": "articulo.mercadolibre.com.pe/MPE-656685384-zapatillas-adidas-mujer-court-platform-ig3112-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178970401736&position=36&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=178970401736",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "630847-MPE52407746699_112022"
+            "id": "674711-MPE72246245003_102023"
           }
         ],
         "square": "Q"
@@ -3527,8 +3274,17 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Running Run 70s | Gw3663",
+            "text": "Zapatillas adidas Mujer Court Platform Ig3112 Blanco",
             "long_title": false
+          }
+        },
+        {
+          "type": "reviews",
+          "id": "reviews",
+          "reviews": {
+            "rating_average": 4.9,
+            "total": 20,
+            "alt_text": "Calificación 4.9 de 5 (20 calificaciones)"
           }
         },
         {
@@ -3536,12 +3292,12 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 184.9,
+              "value": 187.42,
               "currency": "PEN",
               "decimal_style": "superscript"
             },
             "previous_price": {
-              "value": 249,
+              "value": 249.9,
               "currency": "PEN",
               "decimal_style": "normal"
             },
@@ -3566,7 +3322,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 15.41,
+                    "value": 15.62,
                     "currency": "PEN"
                   }
                 }
@@ -3591,17 +3347,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE679474100",
-        "url": "articulo.mercadolibre.com.pe/MPE-679474100-zapatillas-adidas-mujer-grand-court-platform-ie1094-gris-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=183598831087&position=37&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE657441440",
+        "url": "articulo.mercadolibre.com.pe/MPE-657441440-zapatillas-adidas-grand-court-20-el-k-ig4838-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=179040436120&position=37&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=179040436120",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "634938-MPE77384561730_072024"
+            "id": "933671-MPE72345893562_102023"
           }
         ],
         "square": "Q"
@@ -3622,681 +3378,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Grand Court Platform Ie1094 Gris",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 185.93,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 309.9,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 40
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.49,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE657570154",
-        "url": "articulo.mercadolibre.com.pe/MPE-657570154-zapatillas-adidas-mujer-urbanas-court-plataforma-ig3112-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180353227523&position=38&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "664177-MPE72409843571_102023"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Court Plataforma | Ig3112",
-            "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.5,
-            "total": 4,
-            "alt_text": "Calificación 4.5 de 5 (4 calificaciones)"
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE670159306",
-        "url": "articulo.mercadolibre.com.pe/MPE-670159306-zapatillas-adidas-mujer-urbanas-court-platform-ig8606-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182411520099&position=39&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "772295-MPE77661742365_072024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Court Platform | Ig8606",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE670237560",
-        "url": "articulo.mercadolibre.com.pe/MPE-670237560-zapatillas-adidas-mujer-urbanas-courtblock-if6465-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=182411530931&position=40&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "798511-MPE76051961027_042024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Courtblock | If6465",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 239,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 21
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676536190",
-        "url": "articulo.mercadolibre.com.pe/MPE-676536190-zapatillas-adidas-mujer-urbanas-breaknet-20-id0472-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=183217195471&position=41&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "782284-MPE77102718599_062024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Breaknet 2.0 | Id0472",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 229,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 17
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676575178",
-        "url": "articulo.mercadolibre.com.pe/MPE-676575178-zapatillas-adidas-mujer-urbanas-advantage-if6116-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180759357938&position=42&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "730850-MPE76894065638_062024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Advantage | If6116",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.67,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE618798693",
-        "url": "articulo.mercadolibre.com.pe/MPE-618798693-zapatillas-adidas-mujer-tenis-gamecourt-20-gw6262-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175418385652&position=43&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "801601-MPE51842105465_102022"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Tenis Gamecourt 2.0  | Gw6262",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 188.2,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 15.68,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE676575184",
-        "url": "articulo.mercadolibre.com.pe/MPE-676575184-zapatillas-adidas-mujer-urbanas-court-platform-id3345-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=180759357984&position=44&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "904107-MPE77102617559_062024"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas Court Platform | Id3345",
+            "text": "Zapatillas adidas Grand Court 2.0 El K | Ig4838",
             "long_title": false
           }
         },
@@ -4308,14 +3390,6 @@
               "value": 189,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 249,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 24
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -4360,17 +3434,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE618856247",
-        "url": "articulo.mercadolibre.com.pe/MPE-618856247-zapatillas-adidas-mujer-running-nebzed-gw9078-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175418401942&position=45&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE656646926",
+        "url": "articulo.mercadolibre.com.pe/MPE-656646926-zapatillas-adidas-mujer-response-runner-id7337-azul-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178970618466&position=38&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=178970618466",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "784207-MPE51842414800_102022"
+            "id": "915871-MPE72248639845_102023"
           }
         ],
         "square": "Q"
@@ -4391,17 +3465,8 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Running Nebzed | Gw9078",
+            "text": "Zapatillas adidas Mujer Response Runner Id7337 Azul",
             "long_title": false
-          }
-        },
-        {
-          "type": "reviews",
-          "id": "reviews",
-          "reviews": {
-            "rating_average": 4.5,
-            "total": 2,
-            "alt_text": "Calificación 4.5 de 5 (2 calificaciones)"
           }
         },
         {
@@ -4409,17 +3474,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 189.3,
+              "value": 189.9,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 279,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 32
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -4439,7 +3496,703 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 15.78,
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE656659464",
+        "url": "articulo.mercadolibre.com.pe/MPE-656659464-zapatillas-adidas-sin-genero-breaknet-20-hp8961-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=178970424348&position=39&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=178970424348",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "867554-MPE72184364242_102023"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Breaknet 2.0 Hp8961 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670804902",
+        "url": "articulo.mercadolibre.com.pe/MPE-670804902-zapatillas-adidas-sin-genero-grand-court-20-k-id7869-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=180323270572&position=40&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=180323270572",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "896376-MPE75683815092_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Grand Court 2.0 K Id7869 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE670843840",
+        "url": "articulo.mercadolibre.com.pe/MPE-670843840-zapatillas-adidas-sin-genero-grand-court-20-k-id7871-morado-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=182501409729&position=41&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=182501409729",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "685137-MPE75683807030_042024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Grand Court 2.0 K Id7871 Morado",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679435208",
+        "url": "articulo.mercadolibre.com.pe/MPE-679435208-zapatillas-adidas-sin-genero-grand-court-20-k-id0733-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018843978&position=42&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018843978",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "879603-MPE77602280927_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Grand Court 2.0 K Id0733 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679474088",
+        "url": "articulo.mercadolibre.com.pe/MPE-679474088-zapatillas-adidas-sin-genero-response-runner-ih3579-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=183598830989&position=43&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=183598830989",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "647556-MPE77384554154_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Response Runner Ih3579 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679487208",
+        "url": "articulo.mercadolibre.com.pe/MPE-679487208-zapatillas-adidas-sin-genero-grand-court-20-k-gw6511-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181019035084&position=44&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181019035084",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "699413-MPE77602281131_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Grand Court 2.0 K Gw6511 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526086",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526086-zapatillas-adidas-sin-genero-response-runner-ih3583-blanco-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018164414&position=45&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018164414",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "676464-MPE77600815873_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Response Runner Ih3583 Blanco",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
+                    "currency": "PEN"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "type": "shipping",
+          "id": "shipping",
+          "shipping": {
+            "text": "Envío gratis",
+            "promise_type": "none"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "POLYCARD",
+    "sex": "mujer",
+    "state": "VISIBLE",
+    "polycard": {
+      "metadata": {
+        "id": "MPE679526154",
+        "url": "articulo.mercadolibre.com.pe/MPE-679526154-zapatillas-adidas-sin-genero-response-runner-ig1395-negro-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018164992&position=46&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018164992",
+        "is_add": "false",
+        "vertical_id": "CORE"
+      },
+      "pictures": {
+        "pictures": [
+          {
+            "id": "644761-MPE77600818265_072024"
+          }
+        ],
+        "square": "Q"
+      },
+      "bookmark": {
+        "alt_text": "Favorito",
+        "bookmarked": false
+      },
+      "components": [
+        {
+          "type": "brand",
+          "id": "brand",
+          "brand": {
+            "text": "ADIDAS"
+          }
+        },
+        {
+          "type": "title",
+          "id": "title",
+          "title": {
+            "text": "Zapatillas adidas Sin Genero Response Runner Ig1395 Negro",
+            "long_title": false
+          }
+        },
+        {
+          "type": "price",
+          "id": "price",
+          "price": {
+            "current_price": {
+              "value": 189.9,
+              "currency": "PEN",
+              "decimal_style": "superscript"
+            },
+            "installments": {
+              "text": "{en} 12x {price} sin interés",
+              "no_interest": true,
+              "values": [
+                {
+                  "key": "en",
+                  "type": "label",
+                  "label": {
+                    "text": "en"
+                  },
+                  "styles": {
+                    "color": "primary"
+                  }
+                },
+                {
+                  "key": "price",
+                  "type": "price",
+                  "price": {
+                    "value": 15.83,
                     "currency": "PEN"
                   }
                 }
@@ -4466,8 +4219,8 @@
       "metadata": {
         "id": "MPE679565048",
         "url": "articulo.mercadolibre.com.pe/MPE-679565048-zapatillas-adidas-sin-genero-response-runner-ih3577-azul-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018003364&position=46&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=181018003364&position=47&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=181018003364",
         "is_add": "false",
         "vertical_id": "CORE"
       },
@@ -4551,17 +4304,17 @@
     "state": "VISIBLE",
     "polycard": {
       "metadata": {
-        "id": "MPE627891036",
-        "url": "articulo.mercadolibre.com.pe/MPE-627891036-zapatillas-adidas-mujer-running-qt-racer-30-gv9015-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=176841986704&position=47&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
+        "id": "MPE621520772",
+        "url": "articulo.mercadolibre.com.pe/MPE-621520772-zapatillas-adidas-mujer-running-lite-racer-30-gx1721-_JM",
+        "url_fragments": "#polycard_client=search-nordic&searchVariation=175762347293&position=48&search_layout=grid&type=item&tracking_id=2e56d53c-44a0-41d8-ae3f-231807372f71",
+        "url_params": "?searchVariation=175762347293",
         "is_add": "false",
         "vertical_id": "CORE"
       },
       "pictures": {
         "pictures": [
           {
-            "id": "962917-MPE54061621056_022023"
+            "id": "623454-MPE52407769738_112022"
           }
         ],
         "square": "Q"
@@ -4582,7 +4335,7 @@
           "type": "title",
           "id": "title",
           "title": {
-            "text": "Zapatillas adidas Mujer Running Qt Racer 3.0 | Gv9015",
+            "text": "Zapatillas adidas Mujer Running Lite Racer 3.0 | Gx1721",
             "long_title": false
           }
         },
@@ -4591,17 +4344,9 @@
           "id": "price",
           "price": {
             "current_price": {
-              "value": 191.5,
+              "value": 199,
               "currency": "PEN",
               "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 259,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 26
             },
             "installments": {
               "text": "{en} 12x {price} sin interés",
@@ -4621,102 +4366,7 @@
                   "key": "price",
                   "type": "price",
                   "price": {
-                    "value": 15.96,
-                    "currency": "PEN"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "type": "shipping",
-          "id": "shipping",
-          "shipping": {
-            "text": "Envío gratis",
-            "promise_type": "none"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "id": "POLYCARD",
-    "sex": "mujer",
-    "state": "VISIBLE",
-    "polycard": {
-      "metadata": {
-        "id": "MPE618811697",
-        "url": "articulo.mercadolibre.com.pe/MPE-618811697-zapatillas-adidas-mujer-urbanas-adidas-grand-court-gw9261-_JM",
-        "url_fragments": "#polycard_client=search-nordic&searchVariation=175418413766&position=48&search_layout=grid&type=item&tracking_id=c44b5428-e6ea-408b-80ad-e4ce4b232a9a",
-        "url_params": "?searchVariation=variationID",
-        "is_add": "false",
-        "vertical_id": "CORE"
-      },
-      "pictures": {
-        "pictures": [
-          {
-            "id": "778324-MPE51842176112_102022"
-          }
-        ],
-        "square": "Q"
-      },
-      "bookmark": {
-        "alt_text": "Favorito",
-        "bookmarked": false
-      },
-      "components": [
-        {
-          "type": "brand",
-          "id": "brand",
-          "brand": {
-            "text": "ADIDAS"
-          }
-        },
-        {
-          "type": "title",
-          "id": "title",
-          "title": {
-            "text": "Zapatillas adidas Mujer Urbanas adidas Grand Court | Gw9261",
-            "long_title": false
-          }
-        },
-        {
-          "type": "price",
-          "id": "price",
-          "price": {
-            "current_price": {
-              "value": 193.45,
-              "currency": "PEN",
-              "decimal_style": "superscript"
-            },
-            "previous_price": {
-              "value": 219,
-              "currency": "PEN",
-              "decimal_style": "normal"
-            },
-            "discount": {
-              "value": 11
-            },
-            "installments": {
-              "text": "{en} 12x {price} sin interés",
-              "no_interest": true,
-              "values": [
-                {
-                  "key": "en",
-                  "type": "label",
-                  "label": {
-                    "text": "en"
-                  },
-                  "styles": {
-                    "color": "primary"
-                  }
-                },
-                {
-                  "key": "price",
-                  "type": "price",
-                  "price": {
-                    "value": 16.12,
+                    "value": 16.58,
                     "currency": "PEN"
                   }
                 }

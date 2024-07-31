@@ -30,10 +30,24 @@ import { ref, onMounted } from "vue";
 import { useRoute } from "vue-router";
 import axios from "axios";
 
+import productosJsonHombre from "@/assets/adidasHombre.json";
+import productosJsonMujer from "@/assets/adidasMujer.json";
+
+import productosJsonHombrePuma from "@/assets/pumasHombre.json";
+import productosJsonMujerPuma from "@/assets/pumasMujer.json";
+
 // Obtén la ruta actual
 const route = useRoute();
 const idImagen = route.params._idImagen;
-const title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
+let title = decodeURIComponent(route.params.title).replace(/-/g, " "); // Decodifica el título y reemplaza guiones con espacios
+
+const regex = /_(.*)/;
+const match = title.match(regex);
+const codigoProd = match ? match[1] : '';
+
+// Elimina la parte de la URL que comienza con _ hasta el final
+title = title.replace(/_.*/, '');
+const productos = ref([]);
 
 useSeoMeta({
   title: getTitle(title),
@@ -67,10 +81,18 @@ function getTitle(title) {
 const isAdmin = ref(false);
 
 // Comprobar si el token existe en localStorage cuando el componente se monta
+
 onMounted(() => {
   if (typeof window !== "undefined") {
     isAdmin.value = !!localStorage.getItem("tokenadmin");
   }
+
+  productos.value = [
+    ...productosJsonHombre,
+    ...productosJsonMujer,
+    ...productosJsonHombrePuma,
+    ...productosJsonMujerPuma,
+  ];
 });
 
 // Handle admin button action
@@ -88,14 +110,12 @@ function handleAdminAction() {
 }
 
 async function getPrice() {
-  const r = route.params.title;
-  const enlace = `https://articulo.mercadolibre.com.pe/${r}`;
-  axios.get(enlace)
-  .then(response => {
-    const data = response.data;
-    console.log(data);
-  });
+  console.log(codigoProd)
+  const product = this.productos.find(item => item.polycard.metadata.id === codigoProd);
+  console.log(product)
+  return product ? product.polycard.metadata.price : 'No disponible';
 }
+
 </script>
 
 <style scoped>
